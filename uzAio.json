@@ -219,7 +219,7 @@
       "logo": ""
     },
     {
-      "api": "vod/js/Pan_pansou.txt",
+      "api": "https://cdn.jsdelivr.net/gh/g1005/uzn-live@main/vod/js/Pan_pansou.txt",
       "name": "[盘] PanSou",
       "instance": "extApp",
       "webSite": "https://so.252035.xyz",
@@ -237,7 +237,7 @@
       "logo": ""
     },
     {
-      "api": "vod/js/Pan_pansou.txt",
+      "api": "https://cdn.jsdelivr.net/gh/g1005/uzn-live@main/vod/js/Pan_pansou.txt",
       "name": "PanSou（搜索神器，只能搜索使用）",
       "instance": "extApp",
       "webSite": "https://so.252035.xyz",
@@ -362,7 +362,7 @@
       "logo": ""
     },
     {
-      "api": "vod/js/wanou.txt",
+      "api": "https://cdn.jsdelivr.net/gh/g1005/uzn-live@main/vod/js/wanou.txt",
       "name": "玩偶（夸克、UC）",
       "instance": "extApp",
       "webSite": "http://wogg.xxooo.cf",
@@ -380,7 +380,7 @@
       "logo": "https://raw.githubusercontent.com/woleigedouer/uz/refs/heads/main/Test/image/wanou.png"
     },
     {
-      "api": "vod/js/muou.txt",
+      "api": "https://cdn.jsdelivr.net/gh/g1005/uzn-live@main/vod/js/muou.txt",
       "name": "木偶（夸克、UC、百度、115）",
       "instance": "extApp",
       "webSite": "https://666.666291.xyz",
@@ -398,7 +398,7 @@
       "logo": "https://raw.githubusercontent.com/woleigedouer/uz/refs/heads/main/Test/image/muou.png"
     },
     {
-      "api": "vod/js/juhe.txt",
+      "api": "https://cdn.jsdelivr.net/gh/g1005/uzn-live@main/vod/js/juhe.txt",
       "name": "聚合",
       "instance": "extApp",
       "webSite": "玩偶@https://wogg.xxooo.cf,https://www.wogg.net|木偶@https://666.666291.xyz,https://www.muou.asia,https://www.muou.site|蜡笔@http://xiaocge.fun,http://xiaocgege.shop|闪电@http://shandian.blog,http://sd.sduc.site|至臻@https://mihdr.top,http://www.miqk.cc,https://www.mihdr.top,https://zhizhen1.top|多多@https://tv.yydsys.top,https://yydsys.de5.net,https://tv.214521.xyz,https://tv.yydsys.cc|欧哥@https://woog.nxog.eu.org|二小@https://www.wexwp.cc,https://www.2xiaopan.top,https://www.erxiaozhan.top,https://www.2xiaozhan.top|虎斑@http://109.244.63.150:16969|小斑@http://103.45.162.207:12512",
@@ -560,7 +560,7 @@
       "logo": ""
     },
     {
-      "api": "vod/js/Zhi_alist.txt",
+      "api": "https://cdn.jsdelivr.net/gh/g1005/uzn-live@main/vod/js/Zhi_alist.txt",
       "name": "Alist",
       "instance": "extApp",
       "webSite": "https://download.avemujica.org",
@@ -578,7 +578,7 @@
       "logo": "https://img.geekie.site/i/2026/01/12/153542.png"
     },
     {
-      "api": "vod/js/juhe2.txt",
+      "api": "https://cdn.jsdelivr.net/gh/g1005/uzn-live@main/vod/js/juhe2.txt",
       "name": "聚合²",
       "instance": "extApp",
       "webSite": "https://example.com",
@@ -596,7 +596,7 @@
       "logo": "https://img.geekie.site/i/2026/03/21/140844.png"
     },
     {
-      "api": "vod/js/guazi.txt",
+      "api": "https://cdn.jsdelivr.net/gh/g1005/uzn-live@main/vod/js/guazi.txt",
       "name": "瓜子",
       "instance": "extApp",
       "webSite": "https://apinew.uozvr.com",
@@ -614,7 +614,7 @@
       "logo": "https://raw.githubusercontent.com/woleigedouer/uz/refs/heads/main/Test/image/guazi.png"
     },
     {
-      "api": "vod/js/Zhi_tgfilebot.txt",
+      "api": "https://cdn.jsdelivr.net/gh/g1005/uzn-live@main/vod/js/Zhi_tgfilebot.txt",
       "name": "TGFileBot",
       "instance": "extApp",
       "webSite": "http://127.0.0.1:8080",
@@ -632,7 +632,7 @@
       "logo": "https://raw.githubusercontent.com/woleigedouer/uz/refs/heads/main/Test/image/bot.png"
     },
     {
-      "api": "vod/js/huban.js",
+      "api": "https://cdn.jsdelivr.net/gh/g1005/uzn-live@main/vod/js/huban.js",
       "name": "[盘]虎斑盘",
       "instance": "extApp",
       "webSite": "http://103.45.162.207:20720",
@@ -650,7 +650,7 @@
       "logo": ""
     },
     {
-      "api": "vod/js/duoduo.js",
+      "api": "https://cdn.jsdelivr.net/gh/g1005/uzn-live@main/vod/js/duoduo.js",
       "name": "🤠多多影音",
       "instance": "extApp",
       "webSite": "https://tv.yydsys.top",
@@ -668,7 +668,7 @@
       "logo": ""
     },
     {
-      "api": "vod/js/zhizhen.js",
+      "api": "https://cdn.jsdelivr.net/gh/g1005/uzn-live@main/vod/js/zhizhen.js",
       "name": "⚡️至臻网盘",
       "instance": "extApp",
       "webSite": "https://mihdr.top",
@@ -686,7 +686,7 @@
       "logo": ""
     },
     {
-      "api": "vod/js/mogg.js",
+      "api": "https://cdn.jsdelivr.net/gh/g1005/uzn-live@main/vod/js/mogg.js",
       "name": "🪵木偶哥哥",
       "instance": "extApp",
       "webSite": "http://666.666291.xyz/",
@@ -704,7 +704,7 @@
       "logo": ""
     },
     {
-      "api": "vod/js/ougepan.js",
+      "api": "https://cdn.jsdelivr.net/gh/g1005/uzn-live@main/vod/js/ougepan.js",
       "name": "🐲欧歌资源",
       "instance": "ougepan20241030",
       "webSite": "https://woog.nxog.eu.org/",
@@ -722,7 +722,7 @@
       "logo": ""
     },
     {
-      "api": "vod/js/Zhi_doubi.txt",
+      "api": "https://cdn.jsdelivr.net/gh/g1005/uzn-live@main/vod/js/Zhi_doubi.txt",
       "name": "豆哔",
       "instance": "extApp",
       "webSite": "doubi",
@@ -740,7 +740,7 @@
       "logo": "https://raw.githubusercontent.com/woleigedouer/uz/refs/heads/main/Test/image/bili.png"
     },
     {
-      "api": "vod/js/Pan_tgs.js",
+      "api": "https://cdn.jsdelivr.net/gh/g1005/uzn-live@main/vod/js/Pan_tgs.js",
       "name": "TG搜",
       "instance": "extApp",
       "webSite": "https://t.me/s/",
@@ -758,7 +758,7 @@
       "logo": "https://raw.githubusercontent.com/woleigedouer/uz/refs/heads/main/Test/image/TG.png"
     },
     {
-      "api": "vod/js/Zhi_guazi.txt",
+      "api": "https://cdn.jsdelivr.net/gh/g1005/uzn-live@main/vod/js/Zhi_guazi.txt",
       "name": "[直] 瓜子",
       "instance": "extApp",
       "webSite": "https://apinew.uozvr.com",
@@ -776,7 +776,7 @@
       "logo": ""
     },
     {
-      "api": "vod/js/Zhi_iKanBot.txt",
+      "api": "https://cdn.jsdelivr.net/gh/g1005/uzn-live@main/vod/js/Zhi_iKanBot.txt",
       "name": "[直] iKanBot",
       "instance": "extApp",
       "webSite": "https://v.aikanbot.com",
@@ -794,7 +794,7 @@
       "logo": ""
     },
     {
-      "api": "vod/js/wogg.js",
+      "api": "https://cdn.jsdelivr.net/gh/g1005/uzn-live@main/vod/js/wogg.js",
       "name": "玩偶哥哥 v3",
       "instance": "extApp",
       "webSite": "https://www.wogg.net",
@@ -812,7 +812,7 @@
       "logo": ""
     },
     {
-      "api": "vod/js/Zhi_qiyou.js",
+      "api": "https://cdn.jsdelivr.net/gh/g1005/uzn-live@main/vod/js/Zhi_qiyou.js",
       "name": "[直] 奇优",
       "instance": "extApp",
       "webSite": "http://www.qiyoudy4.com",
@@ -830,7 +830,7 @@
       "logo": ""
     },
     {
-      "api": "vod/js/Zhi_jianpian.txt",
+      "api": "https://cdn.jsdelivr.net/gh/g1005/uzn-live@main/vod/js/Zhi_jianpian.txt",
       "name": "[直] 荐片",
       "instance": "extApp",
       "webSite": "jianpian",
@@ -866,7 +866,7 @@
       "logo": ""
     },
     {
-      "api": "vod/js/Xiu_fcdm.js",
+      "api": "https://cdn.jsdelivr.net/gh/g1005/uzn-live@main/vod/js/Xiu_fcdm.js",
       "name": "👖风车动漫",
       "instance": "extApp",
       "webSite": "https://www.tt776b.com",
@@ -884,7 +884,7 @@
       "logo": ""
     },
     {
-      "api": "vod/js/Xiu_yhdm.js",
+      "api": "https://cdn.jsdelivr.net/gh/g1005/uzn-live@main/vod/js/Xiu_yhdm.js",
       "name": "👖樱花动漫",
       "instance": "extApp",
       "webSite": "https://www.vdm5.com",
@@ -902,7 +902,7 @@
       "logo": ""
     },
     {
-      "api": "vod/js/Zhi_biliys.js",
+      "api": "https://cdn.jsdelivr.net/gh/g1005/uzn-live@main/vod/js/Zhi_biliys.js",
       "name": "👖修罗影视",
       "instance": "extApp",
       "webSite": "https://xl01.com.de",
@@ -920,7 +920,7 @@
       "logo": ""
     },
     {
-      "api": "vod/js/Xiu_ntdm.js",
+      "api": "https://cdn.jsdelivr.net/gh/g1005/uzn-live@main/vod/js/Xiu_ntdm.js",
       "name": "👖 NT动漫",
       "instance": "extApp",
       "webSite": "https://www.ntdm9.com",
@@ -938,7 +938,7 @@
       "logo": ""
     },
     {
-      "api": "vod/js/Xiu_mxdm.js",
+      "api": "https://cdn.jsdelivr.net/gh/g1005/uzn-live@main/vod/js/Xiu_mxdm.js",
       "name": "👖MX动漫",
       "instance": "extApp",
       "webSite": "https://www.mxdm6.com",
@@ -1136,7 +1136,7 @@
       "logo": ""
     },
     {
-      "api": "vod/js/Zhi_doubi.txt",
+      "api": "https://cdn.jsdelivr.net/gh/g1005/uzn-live@main/vod/js/Zhi_doubi.txt",
       "name": "👖bilibili直播",
       "instance": "extApp",
       "webSite": "doubi",
@@ -1491,7 +1491,7 @@
       "logo": ""
     },
     {
-      "api": "vod/js/Zhi_omofun.txt",
+      "api": "https://cdn.jsdelivr.net/gh/g1005/uzn-live@main/vod/js/Zhi_omofun.txt",
       "name": "[直] omofun",
       "instance": "extApp",
       "webSite": "http://101.42.227.94:11024",
@@ -1509,7 +1509,7 @@
       "logo": ""
     },
     {
-      "api": "vod/js/Xiu_MuteFun.js",
+      "api": "https://cdn.jsdelivr.net/gh/g1005/uzn-live@main/vod/js/Xiu_MuteFun.js",
       "name": "[嗅] MuteFun",
       "instance": "extApp",
       "webSite": "https://www.mutean.com",
@@ -1527,7 +1527,7 @@
       "logo": ""
     },
     {
-      "api": "vod/js/Xiu_eacg2.js",
+      "api": "https://cdn.jsdelivr.net/gh/g1005/uzn-live@main/vod/js/Xiu_eacg2.js",
       "name": "[嗅] E-ACG2",
       "instance": "extApp",
       "webSite": "https://eacg1.com",
@@ -1545,7 +1545,7 @@
       "logo": ""
     },
     {
-      "api": "vod/js/Xiu_eacg.js",
+      "api": "https://cdn.jsdelivr.net/gh/g1005/uzn-live@main/vod/js/Xiu_eacg.js",
       "name": "[嗅] E-ACG",
       "instance": "extApp",
       "webSite": "https://eacg1.com",
@@ -1563,7 +1563,7 @@
       "logo": ""
     },
     {
-      "api": "vod/js/Xiu_fcdm.js",
+      "api": "https://cdn.jsdelivr.net/gh/g1005/uzn-live@main/vod/js/Xiu_fcdm.js",
       "name": "[嗅] 风车动漫",
       "instance": "extApp",
       "webSite": "https://www.tt776b.com",
@@ -1581,7 +1581,7 @@
       "logo": ""
     },
     {
-      "api": "vod/js/Xiu_ntdm.js",
+      "api": "https://cdn.jsdelivr.net/gh/g1005/uzn-live@main/vod/js/Xiu_ntdm.js",
       "name": "[嗅] NT动漫",
       "instance": "extApp",
       "webSite": "https://www.ntdm9.com",
@@ -1599,7 +1599,7 @@
       "logo": ""
     },
     {
-      "api": "vod/js/Xiu_mxdm.js",
+      "api": "https://cdn.jsdelivr.net/gh/g1005/uzn-live@main/vod/js/Xiu_mxdm.js",
       "name": "[嗅] MX动漫",
       "instance": "extApp",
       "webSite": "https://www.mxdm6.com",
@@ -1617,7 +1617,7 @@
       "logo": ""
     },
     {
-      "api": "vod/js/Xiu_libvio.js",
+      "api": "https://cdn.jsdelivr.net/gh/g1005/uzn-live@main/vod/js/Xiu_libvio.js",
       "name": "[嗅] 立播",
       "instance": "extApp",
       "webSite": "https://libvio.mov/",
@@ -1653,7 +1653,7 @@
       "logo": ""
     },
     {
-      "api": "vod/js/Jin_91jav.js",
+      "api": "https://cdn.jsdelivr.net/gh/g1005/uzn-live@main/vod/js/Jin_91jav.js",
       "name": "[禁] 91jav",
       "instance": "extApp",
       "webSite": "https://041.bndmpsjx.com",
@@ -1671,7 +1671,7 @@
       "logo": ""
     },
     {
-      "api": "vod/js/Jie_cms2.js",
+      "api": "https://cdn.jsdelivr.net/gh/g1005/uzn-live@main/vod/js/Jie_cms2.js",
       "name": "[解] 金蝉",
       "instance": "extApp",
       "webSite": "https://zy.jinchancaiji.com/api.php/provide/vod",
@@ -1689,7 +1689,7 @@
       "logo": ""
     },
     {
-      "api": "vod/js/Jie_cms.js",
+      "api": "https://cdn.jsdelivr.net/gh/g1005/uzn-live@main/vod/js/Jie_cms.js",
       "name": "[解] 金蝉",
       "instance": "extApp",
       "webSite": "https://zy.jinchancaiji.com/api.php/provide/vod",
@@ -1707,7 +1707,7 @@
       "logo": ""
     },
     {
-      "api": "vod/js/Xiu_fcdm.js",
+      "api": "https://cdn.jsdelivr.net/gh/g1005/uzn-live@main/vod/js/Xiu_fcdm.js",
       "name": "[嗅] 风车动漫",
       "instance": "extApp",
       "webSite": "https://www.tt776b.com",
@@ -1725,7 +1725,7 @@
       "logo": ""
     },
     {
-      "api": "vod/js/Xiu_ntdm.js",
+      "api": "https://cdn.jsdelivr.net/gh/g1005/uzn-live@main/vod/js/Xiu_ntdm.js",
       "name": "[嗅] NT动漫",
       "instance": "extApp",
       "webSite": "https://www.ntdm9.com",
@@ -1743,7 +1743,7 @@
       "logo": ""
     },
     {
-      "api": "vod/js/Xiu_libvio.js",
+      "api": "https://cdn.jsdelivr.net/gh/g1005/uzn-live@main/vod/js/Xiu_libvio.js",
       "name": "[嗅] 立播",
       "instance": "extApp",
       "webSite": "https://libvio.mov/",
@@ -1761,7 +1761,7 @@
       "logo": ""
     },
     {
-      "api": "vod/js/Xiu_mxdm.js",
+      "api": "https://cdn.jsdelivr.net/gh/g1005/uzn-live@main/vod/js/Xiu_mxdm.js",
       "name": "[嗅] MX动漫",
       "instance": "extApp",
       "webSite": "https://www.mxdm6.com",
@@ -1779,7 +1779,7 @@
       "logo": ""
     },
     {
-      "api": "vod/js/Zhi_omofun.txt",
+      "api": "https://cdn.jsdelivr.net/gh/g1005/uzn-live@main/vod/js/Zhi_omofun.txt",
       "name": "[直] omofun",
       "instance": "extApp",
       "webSite": "http://101.42.227.94:11024",
@@ -1797,7 +1797,7 @@
       "logo": ""
     },
     {
-      "api": "vod/js/Zhi_doubi.txt",
+      "api": "https://cdn.jsdelivr.net/gh/g1005/uzn-live@main/vod/js/Zhi_doubi.txt",
       "name": "[直] 豆哔",
       "instance": "extApp",
       "webSite": "doubi",
@@ -1815,7 +1815,7 @@
       "logo": ""
     },
     {
-      "api": "vod/js/Zhi_olevod.js",
+      "api": "https://cdn.jsdelivr.net/gh/g1005/uzn-live@main/vod/js/Zhi_olevod.js",
       "name": "[直] 欧乐",
       "instance": "olevod20240620",
       "webSite": "https://www.olehdtv.com",
@@ -1833,7 +1833,7 @@
       "logo": ""
     },
     {
-      "api": "vod/js/Zhi_biliys.js",
+      "api": "https://cdn.jsdelivr.net/gh/g1005/uzn-live@main/vod/js/Zhi_biliys.js",
       "name": "[直] 修罗",
       "instance": "extApp",
       "webSite": "https://xl01.com.de",
@@ -1851,7 +1851,7 @@
       "logo": ""
     },
     {
-      "api": "vod/js/Zhi_gzys.js",
+      "api": "https://cdn.jsdelivr.net/gh/g1005/uzn-live@main/vod/js/Zhi_gzys.js",
       "name": "[直] 瓜子²",
       "instance": "gzys20240822",
       "webSite": "http://api.gudvxty.com",
@@ -1869,7 +1869,7 @@
       "logo": ""
     },
     {
-      "api": "vod/js/Zhi_gzapp.txt",
+      "api": "https://cdn.jsdelivr.net/gh/g1005/uzn-live@main/vod/js/Zhi_gzapp.txt",
       "name": "[直] 瓜子¹",
       "instance": "gzapp20241001",
       "webSite": "http://api.gudvxty.com",
@@ -1887,7 +1887,7 @@
       "logo": ""
     },
     {
-      "api": "vod/js/采集.js",
+      "api": "https://cdn.jsdelivr.net/gh/g1005/uzn-live@main/vod/js/%E9%87%87%E9%9B%86.js",
       "name": "采集 | 解析",
       "instance": "extApp",
       "webSite": "https://zy.hls.one/api.php/provide/vod",
@@ -1905,7 +1905,7 @@
       "logo": ""
     },
     {
-      "api": "vod/js/jocy.js",
+      "api": "https://cdn.jsdelivr.net/gh/g1005/uzn-live@main/vod/js/jocy.js",
       "name": "[直]囧次元",
       "instance": "extApp",
       "webSite": "https://jocy.app",
@@ -1923,7 +1923,7 @@
       "logo": ""
     },
     {
-      "api": "vod/js/dandanju.js",
+      "api": "https://cdn.jsdelivr.net/gh/g1005/uzn-live@main/vod/js/dandanju.js",
       "name": "[直]蛋蛋剧",
       "instance": "extApp",
       "webSite": "https://www.dandanju.tv",
@@ -1941,7 +1941,7 @@
       "logo": ""
     },
     {
-      "api": "vod/js/cms.js",
+      "api": "https://cdn.jsdelivr.net/gh/g1005/uzn-live@main/vod/js/cms.js",
       "name": "[解] 小猫咪",
       "instance": "extApp",
       "webSite": "https://zy.xiaomaomi.cc/api.php/provide/vod",
@@ -1959,7 +1959,7 @@
       "logo": ""
     },
     {
-      "api": "vod/js/biliys.js",
+      "api": "https://cdn.jsdelivr.net/gh/g1005/uzn-live@main/vod/js/biliys.js",
       "name": "💧哔嘀影视",
       "instance": "extApp",
       "webSite": "https://www.xlys01.com",
@@ -1977,7 +1977,7 @@
       "logo": ""
     },
     {
-      "api": "vod/js/biliys.js",
+      "api": "https://cdn.jsdelivr.net/gh/g1005/uzn-live@main/vod/js/biliys.js",
       "name": "💧哔嘀影视",
       "instance": "extApp",
       "webSite": "https://www.xlys01.com",
@@ -2193,7 +2193,7 @@
       "logo": ""
     },
     {
-      "api": "vod/js/moedm.txt",
+      "api": "https://cdn.jsdelivr.net/gh/g1005/uzn-live@main/vod/js/moedm.txt",
       "name": "pv嗷呜动漫",
       "instance": "extApp",
       "webSite": "https://www.moedm.net",
@@ -2627,7 +2627,7 @@
       "logo": ""
     },
     {
-      "api": "vod/js/haiju.js",
+      "api": "https://cdn.jsdelivr.net/gh/g1005/uzn-live@main/vod/js/haiju.js",
       "name": "嗨劇網",
       "instance": "haiju20240917",
       "webSite": "https://www.haiju.vip",
@@ -2645,7 +2645,7 @@
       "logo": ""
     },
     {
-      "api": "vod/js/nkvod.js",
+      "api": "https://cdn.jsdelivr.net/gh/g1005/uzn-live@main/vod/js/nkvod.js",
       "name": "耐看點播",
       "instance": "nkvod20240712",
       "webSite": "https://nkvod.com",
@@ -2663,7 +2663,7 @@
       "logo": ""
     },
     {
-      "api": "vod/js/hkdoll.js",
+      "api": "https://cdn.jsdelivr.net/gh/g1005/uzn-live@main/vod/js/hkdoll.js",
       "name": "玩偶姐姐",
       "instance": "hkdoll20240705",
       "webSite": "https://hongkongdollvideo.com",
@@ -2681,7 +2681,7 @@
       "logo": ""
     },
     {
-      "api": "vod/js/6080.js",
+      "api": "https://cdn.jsdelivr.net/gh/g1005/uzn-live@main/vod/js/6080.js",
       "name": "新視覺",
       "instance": "newvision20240629",
       "webSite": "https://www.6080yy3.com",
@@ -2699,7 +2699,7 @@
       "logo": ""
     },
     {
-      "api": "vod/js/madou.js",
+      "api": "https://cdn.jsdelivr.net/gh/g1005/uzn-live@main/vod/js/madou.js",
       "name": "麻豆社",
       "instance": "madou20240626",
       "webSite": "https://madou.club",
@@ -2717,7 +2717,7 @@
       "logo": ""
     },
     {
-      "api": "vod/js/1080ee.js",
+      "api": "https://cdn.jsdelivr.net/gh/g1005/uzn-live@main/vod/js/1080ee.js",
       "name": "1080ee",
       "instance": "www1080ee20240626",
       "webSite": "http://www.1080.ee",
@@ -2735,7 +2735,7 @@
       "logo": ""
     },
     {
-      "api": "vod/js/91jav.js",
+      "api": "https://cdn.jsdelivr.net/gh/g1005/uzn-live@main/vod/js/91jav.js",
       "name": "91jav",
       "instance": "jav9120241127",
       "webSite": "https://041.bndmpsjx.com",
@@ -2753,7 +2753,7 @@
       "logo": ""
     },
     {
-      "api": "vod/js/netflav.js",
+      "api": "https://cdn.jsdelivr.net/gh/g1005/uzn-live@main/vod/js/netflav.js",
       "name": "Netflav",
       "instance": "netflav20240905",
       "webSite": "https://www.netflav.com",
@@ -2771,7 +2771,7 @@
       "logo": ""
     },
     {
-      "api": "vod/js/duanjutt.js",
+      "api": "https://cdn.jsdelivr.net/gh/g1005/uzn-live@main/vod/js/duanjutt.js",
       "name": "短劇天堂",
       "instance": "duanjutt20240922",
       "webSite": "https://duanjutt.tv",
@@ -2789,7 +2789,7 @@
       "logo": ""
     },
     {
-      "api": "vod/js/qiyou.js",
+      "api": "https://cdn.jsdelivr.net/gh/g1005/uzn-live@main/vod/js/qiyou.js",
       "name": "奇優影院",
       "instance": "qiyou20240904",
       "webSite": "http://www.qiyoudy4.com",
@@ -2807,7 +2807,7 @@
       "logo": ""
     },
     {
-      "api": "vod/js/4kav.js",
+      "api": "https://cdn.jsdelivr.net/gh/g1005/uzn-live@main/vod/js/4kav.js",
       "name": "4k-av",
       "instance": "www4kav20240705",
       "webSite": "https://4k-av.com",
@@ -2825,7 +2825,7 @@
       "logo": ""
     },
     {
-      "api": "vod/js/jcy.js",
+      "api": "https://cdn.jsdelivr.net/gh/g1005/uzn-live@main/vod/js/jcy.js",
       "name": "囧次元",
       "instance": "jcy20240823",
       "webSite": "https://jocy.app",
@@ -2843,7 +2843,7 @@
       "logo": ""
     },
     {
-      "api": "vod/js/jpyy.js",
+      "api": "https://cdn.jsdelivr.net/gh/g1005/uzn-live@main/vod/js/jpyy.js",
       "name": "金牌影院",
       "instance": "jpyy20240716",
       "webSite": "https://www.ghw9zwp5.com",
@@ -2861,7 +2861,7 @@
       "logo": ""
     },
     {
-      "api": "vod/js/dandanju.js",
+      "api": "https://cdn.jsdelivr.net/gh/g1005/uzn-live@main/vod/js/dandanju.js",
       "name": "蛋蛋劇",
       "instance": "dandanju20240704",
       "webSite": "https://www.dandanju.tv",
@@ -2879,7 +2879,7 @@
       "logo": ""
     },
     {
-      "api": "vod/js/tiantian.js",
+      "api": "https://cdn.jsdelivr.net/gh/g1005/uzn-live@main/vod/js/tiantian.js",
       "name": "天天影視",
       "instance": "tiantian20240629",
       "webSite": "http://op.ysdqjs.cn",
@@ -2897,7 +2897,7 @@
       "logo": ""
     },
     {
-      "api": "vod/js/bttwo.js",
+      "api": "https://cdn.jsdelivr.net/gh/g1005/uzn-live@main/vod/js/bttwo.js",
       "name": "兩個BT",
       "instance": "bttwo20240628",
       "webSite": "https://www.bttwoo.com",
@@ -2915,7 +2915,7 @@
       "logo": ""
     },
     {
-      "api": "vod/js/hjkk.js",
+      "api": "https://cdn.jsdelivr.net/gh/g1005/uzn-live@main/vod/js/hjkk.js",
       "name": "韓劇看看",
       "instance": "hjkk20240624",
       "webSite": "https://www.hanjukankan.com",
@@ -2933,7 +2933,7 @@
       "logo": ""
     },
     {
-      "api": "vod/js/changZhang20240614.js",
+      "api": "https://cdn.jsdelivr.net/gh/g1005/uzn-live@main/vod/js/changZhang20240614.js",
       "name": "厂长视频",
       "instance": "changZhang20240614",
       "webSite": "https://czzy.top",
@@ -2951,7 +2951,7 @@
       "logo": ""
     },
     {
-      "api": "vod/js/zxzj.js",
+      "api": "https://cdn.jsdelivr.net/gh/g1005/uzn-live@main/vod/js/zxzj.js",
       "name": "在線之家",
       "instance": "zxzj20240620",
       "webSite": "https://www.zxzja.com",
@@ -2969,7 +2969,7 @@
       "logo": ""
     },
     {
-      "api": "vod/js/saohuo.js",
+      "api": "https://cdn.jsdelivr.net/gh/g1005/uzn-live@main/vod/js/saohuo.js",
       "name": "燒火電影",
       "instance": "saohuo20240623",
       "webSite": "https://saohuo.tv",
@@ -3041,7 +3041,7 @@
       "logo": ""
     },
     {
-      "api": "vod/js/subaibai.js",
+      "api": "https://cdn.jsdelivr.net/gh/g1005/uzn-live@main/vod/js/subaibai.js",
       "name": "素白白",
       "instance": "sbb20240624",
       "webSite": "https://www.subaibaiys.com",
@@ -3059,7 +3059,7 @@
       "logo": ""
     },
     {
-      "api": "vod/js/biliys.js",
+      "api": "https://cdn.jsdelivr.net/gh/g1005/uzn-live@main/vod/js/biliys.js",
       "name": "💧哔嘀影视",
       "instance": "extApp",
       "webSite": "https://www.xlys01.com",
@@ -3508,7 +3508,7 @@
       "logo": ""
     },
     {
-      "api": "vod/js/laobai.js",
+      "api": "https://cdn.jsdelivr.net/gh/g1005/uzn-live@main/vod/js/laobai.js",
       "name": "老白聽書",
       "instance": "laobai20240831",
       "webSite": "https://apk-lb-json.fodexin.com",
@@ -3526,7 +3526,7 @@
       "logo": ""
     },
     {
-      "api": "vod/js/aomipan.js",
+      "api": "https://cdn.jsdelivr.net/gh/g1005/uzn-live@main/vod/js/aomipan.js",
       "name": "🍔奥秘影视",
       "instance": "aomipan20241030",
       "webSite": "https://vip.omii.top/",
@@ -3544,7 +3544,7 @@
       "logo": ""
     },
     {
-      "api": "vod/js/yunxing.js",
+      "api": "https://cdn.jsdelivr.net/gh/g1005/uzn-live@main/vod/js/yunxing.js",
       "name": "⛅️云星日记",
       "instance": "yunxing20241030",
       "webSite": "https://4k.4u4.cn",
@@ -3562,7 +3562,7 @@
       "logo": ""
     },
     {
-      "api": "vod/js/tudou.js",
+      "api": "https://cdn.jsdelivr.net/gh/g1005/uzn-live@main/vod/js/tudou.js",
       "name": "🥔土豆粉条",
       "instance": "tudou20241030",
       "webSite": "https://yunpan.yunpay.cc",
@@ -3580,7 +3580,7 @@
       "logo": ""
     },
     {
-      "api": "vod/js/resyunpan.js",
+      "api": "https://cdn.jsdelivr.net/gh/g1005/uzn-live@main/vod/js/resyunpan.js",
       "name": "云盘资源网",
       "instance": "resYunPan20241120",
       "webSite": "https://res.yunpan.win",
@@ -3598,7 +3598,7 @@
       "logo": ""
     },
     {
-      "api": "vod/js/wobg.js",
+      "api": "https://cdn.jsdelivr.net/gh/g1005/uzn-live@main/vod/js/wobg.js",
       "name": "🐱玩偶备用",
       "instance": "extApp",
       "webSite": "http://wogg.xxooo.cf",
@@ -3616,7 +3616,7 @@
       "logo": ""
     },
     {
-      "api": "vod/js/xiaomi.js",
+      "api": "https://cdn.jsdelivr.net/gh/g1005/uzn-live@main/vod/js/xiaomi.js",
       "name": "🌾小米网盘",
       "instance": "extApp",
       "webSite": "http://www.mucpan.cc",
@@ -3634,7 +3634,7 @@
       "logo": ""
     },
     {
-      "api": "vod/js/labipan.js",
+      "api": "https://cdn.jsdelivr.net/gh/g1005/uzn-live@main/vod/js/labipan.js",
       "name": "🖍蜡笔小新",
       "instance": "extApp",
       "webSite": "https://duopan.fun",
@@ -3652,7 +3652,7 @@
       "logo": ""
     },
     {
-      "api": "vod/js/ouge.js",
+      "api": "https://cdn.jsdelivr.net/gh/g1005/uzn-live@main/vod/js/ouge.js",
       "name": "🐲欧歌资源",
       "instance": "extApp",
       "webSite": "https://woog.nxog.eu.org",
@@ -3670,7 +3670,7 @@
       "logo": ""
     },
     {
-      "api": "vod/js/liuqu.js",
+      "api": "https://cdn.jsdelivr.net/gh/g1005/uzn-live@main/vod/js/liuqu.js",
       "name": "🤙🏻六趣网盘",
       "instance": "extApp",
       "webSite": "https://wp.0v.fit",
@@ -4084,7 +4084,7 @@
       "logo": ""
     },
     {
-      "api": "vod/js/leijing.txt",
+      "api": "https://cdn.jsdelivr.net/gh/g1005/uzn-live@main/vod/js/leijing.txt",
       "name": "pv雷鲸",
       "instance": "leiJing20241126",
       "webSite": "https://www.leijing.xyz",
@@ -4102,7 +4102,7 @@
       "logo": ""
     },
     {
-      "api": "vod/js/tianyiso.txt",
+      "api": "https://cdn.jsdelivr.net/gh/g1005/uzn-live@main/vod/js/tianyiso.txt",
       "name": "pv天逸搜",
       "instance": "tianyiso20241129",
       "webSite": "https://www.tianyiso.com",
@@ -4120,7 +4120,7 @@
       "logo": ""
     },
     {
-      "api": "vod/js/funletu.txt",
+      "api": "https://cdn.jsdelivr.net/gh/g1005/uzn-live@main/vod/js/funletu.txt",
       "name": "pv趣盘搜",
       "instance": "funletu20241124",
       "webSite": "https://pan.funletu.com",
@@ -4138,7 +4138,7 @@
       "logo": ""
     },
     {
-      "api": "vod/js/mogg.js",
+      "api": "https://cdn.jsdelivr.net/gh/g1005/uzn-live@main/vod/js/mogg.js",
       "name": "pv木偶哥哥",
       "instance": "mogg20241023",
       "webSite": "http://www.mogg.top",
@@ -4156,7 +4156,7 @@
       "logo": ""
     },
     {
-      "api": "vod/js/wogg.js",
+      "api": "https://cdn.jsdelivr.net/gh/g1005/uzn-live@main/vod/js/wogg.js",
       "name": "pv玩偶哥哥",
       "instance": "wogg20240929",
       "webSite": "https://www.wogg.net",
@@ -4174,7 +4174,7 @@
       "logo": ""
     },
     {
-      "api": "vod/js/duopan.js",
+      "api": "https://cdn.jsdelivr.net/gh/g1005/uzn-live@main/vod/js/duopan.js",
       "name": "pv🤠多多影音",
       "instance": "duopan20241030",
       "webSite": "https://tv.yydsys.top/",
@@ -4192,7 +4192,7 @@
       "logo": ""
     },
     {
-      "api": "vod/js/nanfdj.js",
+      "api": "https://cdn.jsdelivr.net/gh/g1005/uzn-live@main/vod/js/nanfdj.js",
       "name": "南风短剧",
       "instance": "extApp",
       "webSite": "https://www.nanf.cc",
@@ -4840,7 +4840,7 @@
       "logo": ""
     },
     {
-      "api": "vod/js/玩偶哥哥.js",
+      "api": "https://cdn.jsdelivr.net/gh/g1005/uzn-live@main/vod/js/%E7%8E%A9%E5%81%B6%E5%93%A5%E5%93%A5.js",
       "name": "👽玩偶哥哥",
       "instance": "extApp",
       "webSite": "http://woggpan.333232.xyz/",
@@ -4858,7 +4858,7 @@
       "logo": ""
     },
     {
-      "api": "vod/js/玩偶备用.js",
+      "api": "https://cdn.jsdelivr.net/gh/g1005/uzn-live@main/vod/js/%E7%8E%A9%E5%81%B6%E5%A4%87%E7%94%A8.js",
       "name": "🐱玩偶备用",
       "instance": "extApp",
       "webSite": "http://wogg.xxooo.cf",
@@ -4876,7 +4876,7 @@
       "logo": ""
     },
     {
-      "api": "vod/js/木偶哥哥.js",
+      "api": "https://cdn.jsdelivr.net/gh/g1005/uzn-live@main/vod/js/%E6%9C%A8%E5%81%B6%E5%93%A5%E5%93%A5.js",
       "name": "🪵木偶哥哥",
       "instance": "extApp",
       "webSite": "http://www.muoupan.top",
@@ -4894,7 +4894,7 @@
       "logo": ""
     },
     {
-      "api": "vod/js/小米网盘.js",
+      "api": "https://cdn.jsdelivr.net/gh/g1005/uzn-live@main/vod/js/%E5%B0%8F%E7%B1%B3%E7%BD%91%E7%9B%98.js",
       "name": "🌾小米优汐",
       "instance": "extApp",
       "webSite": "http://54271.fun",
@@ -4912,7 +4912,7 @@
       "logo": ""
     },
     {
-      "api": "vod/js/闪电网盘.js",
+      "api": "https://cdn.jsdelivr.net/gh/g1005/uzn-live@main/vod/js/%E9%97%AA%E7%94%B5%E7%BD%91%E7%9B%98.js",
       "name": "⚡️闪电优汐",
       "instance": "extApp",
       "webSite": "http://1.95.79.193/",
@@ -4930,7 +4930,7 @@
       "logo": ""
     },
     {
-      "api": "vod/js/至臻视觉.js",
+      "api": "https://cdn.jsdelivr.net/gh/g1005/uzn-live@main/vod/js/%E8%87%B3%E8%87%BB%E8%A7%86%E8%A7%89.js",
       "name": "💯至臻视觉",
       "instance": "extApp",
       "webSite": "http://www.xhww.net",
@@ -4948,7 +4948,7 @@
       "logo": ""
     },
     {
-      "api": "vod/js/蜡笔小新.js",
+      "api": "https://cdn.jsdelivr.net/gh/g1005/uzn-live@main/vod/js/%E8%9C%A1%E7%AC%94%E5%B0%8F%E6%96%B0.js",
       "name": "🖍蜡笔小新",
       "instance": "extApp",
       "webSite": "https://feimaoai.site",
@@ -4966,7 +4966,7 @@
       "logo": ""
     },
     {
-      "api": "vod/js/多多影音.js",
+      "api": "https://cdn.jsdelivr.net/gh/g1005/uzn-live@main/vod/js/%E5%A4%9A%E5%A4%9A%E5%BD%B1%E9%9F%B3.js",
       "name": "🤠多多影音",
       "instance": "extApp",
       "webSite": "https://tv.yydsys.top",
@@ -4984,7 +4984,7 @@
       "logo": ""
     },
     {
-      "api": "vod/js/欧歌资源.js",
+      "api": "https://cdn.jsdelivr.net/gh/g1005/uzn-live@main/vod/js/%E6%AC%A7%E6%AD%8C%E8%B5%84%E6%BA%90.js",
       "name": "🐲欧歌资源",
       "instance": "extApp",
       "webSite": "https://woog.nxog.eu.org",
@@ -5002,7 +5002,7 @@
       "logo": ""
     },
     {
-      "api": "vod/js/奥秘网盘.js",
+      "api": "https://cdn.jsdelivr.net/gh/g1005/uzn-live@main/vod/js/%E5%A5%A5%E7%A7%98%E7%BD%91%E7%9B%98.js",
       "name": "🌞奥秘影视",
       "instance": "extApp",
       "webSite": "https://vip.omii.top/",
@@ -5020,7 +5020,7 @@
       "logo": ""
     },
     {
-      "api": "vod/js/六趣网盘.js",
+      "api": "https://cdn.jsdelivr.net/gh/g1005/uzn-live@main/vod/js/%E5%85%AD%E8%B6%A3%E7%BD%91%E7%9B%98.js",
       "name": "🤙🏻六趣网盘",
       "instance": "extApp",
       "webSite": "https://wp.0v.fit",
@@ -5038,7 +5038,7 @@
       "logo": ""
     },
     {
-      "api": "vod/js/云盘资源网.js",
+      "api": "https://cdn.jsdelivr.net/gh/g1005/uzn-live@main/vod/js/%E4%BA%91%E7%9B%98%E8%B5%84%E6%BA%90%E7%BD%91.js",
       "name": "⛅️云盘资源",
       "instance": "ypzyw",
       "webSite": "https://res.yunpan.win",
@@ -5056,7 +5056,7 @@
       "logo": ""
     },
     {
-      "api": "vod/js/南风短剧.js",
+      "api": "https://cdn.jsdelivr.net/gh/g1005/uzn-live@main/vod/js/%E5%8D%97%E9%A3%8E%E7%9F%AD%E5%89%A7.js",
       "name": "🌪南风短剧",
       "instance": "extApp",
       "webSite": "https://www.nanf.cc",
@@ -5074,7 +5074,7 @@
       "logo": ""
     },
     {
-      "api": "vod/js/fmuc.js",
+      "api": "https://cdn.jsdelivr.net/gh/g1005/uzn-live@main/vod/js/fmuc.js",
       "name": "⚡️肥猫UC",
       "instance": "fmuc20241128",
       "webSite": "http://feimaouc.cloud:666",
@@ -5092,7 +5092,7 @@
       "logo": ""
     },
     {
-      "api": "vod/js/labi.js",
+      "api": "https://cdn.jsdelivr.net/gh/g1005/uzn-live@main/vod/js/labi.js",
       "name": "⚡️蜡笔盘",
       "instance": "labipan20241028",
       "webSite": "https://feimaoai.site/",
@@ -5110,7 +5110,7 @@
       "logo": ""
     },
     {
-      "api": "vod/js/miuc.js",
+      "api": "https://cdn.jsdelivr.net/gh/g1005/uzn-live@main/vod/js/miuc.js",
       "name": "⚡️米UC网盘",
       "instance": "miuc20241125",
       "webSite": "http://www.mucpan.cc/",
@@ -5128,7 +5128,7 @@
       "logo": ""
     },
     {
-      "api": "vod/js/zhizhen.js",
+      "api": "https://cdn.jsdelivr.net/gh/g1005/uzn-live@main/vod/js/zhizhen.js",
       "name": "⚡️至臻网盘",
       "instance": "zhizhen20241029",
       "webSite": "https://mihdr.top/",
@@ -5146,7 +5146,7 @@
       "logo": ""
     },
     {
-      "api": "vod/js/biliys.js",
+      "api": "https://cdn.jsdelivr.net/gh/g1005/uzn-live@main/vod/js/biliys.js",
       "name": "哔嘀影视",
       "instance": "yjys20240824",
       "webSite": "https://www.xlys01.com",
@@ -5164,7 +5164,7 @@
       "logo": ""
     },
     {
-      "api": "vod/js/wogg.js",
+      "api": "https://cdn.jsdelivr.net/gh/g1005/uzn-live@main/vod/js/wogg.js",
       "name": "玩偶哥哥",
       "instance": "extApp",
       "webSite": "https://www.wogg.net",
@@ -5182,7 +5182,7 @@
       "logo": ""
     },
     {
-      "api": "vod/js/wobg.js",
+      "api": "https://cdn.jsdelivr.net/gh/g1005/uzn-live@main/vod/js/wobg.js",
       "name": "🐱玩偶备用",
       "instance": "extApp",
       "webSite": "http://wogg.xxooo.cf",
@@ -5200,7 +5200,7 @@
       "logo": ""
     },
     {
-      "api": "vod/js/mogg.js",
+      "api": "https://cdn.jsdelivr.net/gh/g1005/uzn-live@main/vod/js/mogg.js",
       "name": "🪵木偶哥哥",
       "instance": "extApp",
       "webSite": "http://www.muoupan.top",
@@ -5218,7 +5218,7 @@
       "logo": ""
     },
     {
-      "api": "vod/js/xiaomi.js",
+      "api": "https://cdn.jsdelivr.net/gh/g1005/uzn-live@main/vod/js/xiaomi.js",
       "name": "🌾小米网盘",
       "instance": "extApp",
       "webSite": "http://www.mucpan.cc",
@@ -5236,7 +5236,7 @@
       "logo": ""
     },
     {
-      "api": "vod/js/zhizhen.js",
+      "api": "https://cdn.jsdelivr.net/gh/g1005/uzn-live@main/vod/js/zhizhen.js",
       "name": "⚡️至臻网盘",
       "instance": "extApp",
       "webSite": "https://mihdr.top",
@@ -5254,7 +5254,7 @@
       "logo": ""
     },
     {
-      "api": "vod/js/labipan.js",
+      "api": "https://cdn.jsdelivr.net/gh/g1005/uzn-live@main/vod/js/labipan.js",
       "name": "🖍蜡笔小新",
       "instance": "extApp",
       "webSite": "https://duopan.fun",
@@ -5272,7 +5272,7 @@
       "logo": ""
     },
     {
-      "api": "vod/js/duoduo.js",
+      "api": "https://cdn.jsdelivr.net/gh/g1005/uzn-live@main/vod/js/duoduo.js",
       "name": "🤠多多影音",
       "instance": "extApp",
       "webSite": "https://tv.yydsys.top",
@@ -5290,7 +5290,7 @@
       "logo": ""
     },
     {
-      "api": "vod/js/ouge.js",
+      "api": "https://cdn.jsdelivr.net/gh/g1005/uzn-live@main/vod/js/ouge.js",
       "name": "🐲欧歌资源",
       "instance": "extApp",
       "webSite": "https://woog.nxog.eu.org",
@@ -5308,7 +5308,7 @@
       "logo": ""
     },
     {
-      "api": "vod/js/liuqu.js",
+      "api": "https://cdn.jsdelivr.net/gh/g1005/uzn-live@main/vod/js/liuqu.js",
       "name": "🤙🏻六趣网盘",
       "instance": "extApp",
       "webSite": "https://wp.0v.fit",
@@ -5326,7 +5326,7 @@
       "logo": ""
     },
     {
-      "api": "vod/js/nanfdj.js",
+      "api": "https://cdn.jsdelivr.net/gh/g1005/uzn-live@main/vod/js/nanfdj.js",
       "name": "南风短剧",
       "instance": "extApp",
       "webSite": "https://www.nanf.cc",
@@ -5344,7 +5344,7 @@
       "logo": ""
     },
     {
-      "api": "vod/js/wogg.js",
+      "api": "https://cdn.jsdelivr.net/gh/g1005/uzn-live@main/vod/js/wogg.js",
       "name": "玩偶哥哥",
       "instance": "extApp",
       "webSite": "https://www.wogg.lol",
@@ -5362,7 +5362,7 @@
       "logo": ""
     },
     {
-      "api": "vod/js/wobg.js",
+      "api": "https://cdn.jsdelivr.net/gh/g1005/uzn-live@main/vod/js/wobg.js",
       "name": "🐱玩偶备用",
       "instance": "extApp",
       "webSite": "http://wogg.xxooo.cf",
@@ -5380,7 +5380,7 @@
       "logo": ""
     },
     {
-      "api": "vod/js/mogg.js",
+      "api": "https://cdn.jsdelivr.net/gh/g1005/uzn-live@main/vod/js/mogg.js",
       "name": "🪵木偶哥哥",
       "instance": "extApp",
       "webSite": "http://www.mogg.top",
@@ -5398,7 +5398,7 @@
       "logo": ""
     },
     {
-      "api": "vod/js/xiaomi.js",
+      "api": "https://cdn.jsdelivr.net/gh/g1005/uzn-live@main/vod/js/xiaomi.js",
       "name": "🌾小米网盘",
       "instance": "extApp",
       "webSite": "http://milvdou.fun/",
@@ -5416,7 +5416,7 @@
       "logo": ""
     },
     {
-      "api": "vod/js/zhizhen.js",
+      "api": "https://cdn.jsdelivr.net/gh/g1005/uzn-live@main/vod/js/zhizhen.js",
       "name": "⚡️至臻网盘",
       "instance": "extApp",
       "webSite": "https://mihdr.top",
@@ -5434,7 +5434,7 @@
       "logo": ""
     },
     {
-      "api": "vod/js/labipan.js",
+      "api": "https://cdn.jsdelivr.net/gh/g1005/uzn-live@main/vod/js/labipan.js",
       "name": "🖍蜡笔小新",
       "instance": "extApp",
       "webSite": "https://duopan.fun",
@@ -5452,7 +5452,7 @@
       "logo": ""
     },
     {
-      "api": "vod/js/duoduo.js",
+      "api": "https://cdn.jsdelivr.net/gh/g1005/uzn-live@main/vod/js/duoduo.js",
       "name": "🤠多多影音",
       "instance": "extApp",
       "webSite": "https://tv.yydsys.top",
@@ -5470,7 +5470,7 @@
       "logo": ""
     },
     {
-      "api": "vod/js/ouge.js",
+      "api": "https://cdn.jsdelivr.net/gh/g1005/uzn-live@main/vod/js/ouge.js",
       "name": "🐲欧歌资源",
       "instance": "extApp",
       "webSite": "https://woog.nxog.eu.org",
@@ -5488,7 +5488,7 @@
       "logo": ""
     },
     {
-      "api": "vod/js/shandian.js",
+      "api": "https://cdn.jsdelivr.net/gh/g1005/uzn-live@main/vod/js/shandian.js",
       "name": "⚡闪电优汐",
       "instance": "extApp",
       "webSite": "http://1.95.79.193/",
@@ -5506,7 +5506,7 @@
       "logo": ""
     },
     {
-      "api": "vod/js/huban.js",
+      "api": "https://cdn.jsdelivr.net/gh/g1005/uzn-live@main/vod/js/huban.js",
       "name": "🐯小小虎斑",
       "instance": "extApp",
       "webSite": "http://103.45.162.207:20720",
@@ -5524,7 +5524,7 @@
       "logo": ""
     },
     {
-      "api": "vod/js/xiafan.js",
+      "api": "https://cdn.jsdelivr.net/gh/g1005/uzn-live@main/vod/js/xiafan.js",
       "name": "🍚特下饭盘",
       "instance": "extApp",
       "webSite": "http://www.xn--ghqy10g1w0a.xyz/",
@@ -5542,7 +5542,7 @@
       "logo": ""
     },
     {
-      "api": "vod/js/liuqu.js",
+      "api": "https://cdn.jsdelivr.net/gh/g1005/uzn-live@main/vod/js/liuqu.js",
       "name": "🤙🏻六趣网盘",
       "instance": "extApp",
       "webSite": "https://wp.0v.fit",
@@ -5560,7 +5560,7 @@
       "logo": ""
     },
     {
-      "api": "vod/js/nanfdj.js",
+      "api": "https://cdn.jsdelivr.net/gh/g1005/uzn-live@main/vod/js/nanfdj.js",
       "name": "南风短剧",
       "instance": "extApp",
       "webSite": "https://www.nanf.cc",
@@ -5596,7 +5596,7 @@
       "logo": ""
     },
     {
-      "api": "vod/js/jable.js",
+      "api": "https://cdn.jsdelivr.net/gh/g1005/uzn-live@main/vod/js/jable.js",
       "name": "Jable",
       "instance": "jable20240831",
       "webSite": "https://jable.tv",
@@ -5614,7 +5614,7 @@
       "logo": ""
     },
     {
-      "api": "vod/js/91jav.js",
+      "api": "https://cdn.jsdelivr.net/gh/g1005/uzn-live@main/vod/js/91jav.js",
       "name": "91jav",
       "instance": "extApp",
       "webSite": "https://041.bndmpsjx.com",
@@ -5686,7 +5686,7 @@
       "logo": ""
     },
     {
-      "api": "vod/js/changZhang20240614.js",
+      "api": "https://cdn.jsdelivr.net/gh/g1005/uzn-live@main/vod/js/changZhang20240614.js",
       "name": "[直]厂长影视",
       "instance": "extApp",
       "webSite": "https://www.czzy77.com",
@@ -5704,7 +5704,7 @@
       "logo": ""
     },
     {
-      "api": "vod/js/bttwo.js",
+      "api": "https://cdn.jsdelivr.net/gh/g1005/uzn-live@main/vod/js/bttwo.js",
       "name": "[直]两个bt",
       "instance": "extApp",
       "webSite": "https://www.bttwoo.com",
@@ -5722,7 +5722,7 @@
       "logo": ""
     },
     {
-      "api": "vod/js/shandian.js",
+      "api": "https://cdn.jsdelivr.net/gh/g1005/uzn-live@main/vod/js/shandian.js",
       "name": "[盘]闪电优汐",
       "instance": "extApp",
       "webSite": "http://1.95.79.193/",
@@ -5740,7 +5740,7 @@
       "logo": ""
     },
     {
-      "api": "vod/js/ouge.js",
+      "api": "https://cdn.jsdelivr.net/gh/g1005/uzn-live@main/vod/js/ouge.js",
       "name": "[盘]讴歌盘",
       "instance": "extApp",
       "webSite": "https://woog.nxog.eu.org",
@@ -5758,7 +5758,7 @@
       "logo": ""
     },
     {
-      "api": "vod/js/labipan.js",
+      "api": "https://cdn.jsdelivr.net/gh/g1005/uzn-live@main/vod/js/labipan.js",
       "name": "[盘]蜡笔盘",
       "instance": "extApp",
       "webSite": "https://duopan.fun",
@@ -5776,7 +5776,7 @@
       "logo": ""
     },
     {
-      "api": "vod/js/zhizhen.js",
+      "api": "https://cdn.jsdelivr.net/gh/g1005/uzn-live@main/vod/js/zhizhen.js",
       "name": "[盘]至臻盘",
       "instance": "extApp",
       "webSite": "https://mihdr.top",
@@ -5794,7 +5794,7 @@
       "logo": ""
     },
     {
-      "api": "vod/js/wobg.js",
+      "api": "https://cdn.jsdelivr.net/gh/g1005/uzn-live@main/vod/js/wobg.js",
       "name": "[盘]玩偶哥哥",
       "instance": "extApp",
       "webSite": "http://wogg.xxooo.cf",
@@ -5812,7 +5812,7 @@
       "logo": ""
     },
     {
-      "api": "vod/js/xiafan.js",
+      "api": "https://cdn.jsdelivr.net/gh/g1005/uzn-live@main/vod/js/xiafan.js",
       "name": "[盘]特下饭",
       "instance": "extApp",
       "webSite": "http://www.xn--ghqy10g1w0a.xyz/",
@@ -5830,7 +5830,7 @@
       "logo": ""
     },
     {
-      "api": "vod/js/mogg.js",
+      "api": "https://cdn.jsdelivr.net/gh/g1005/uzn-live@main/vod/js/mogg.js",
       "name": "[盘]木偶",
       "instance": "extApp",
       "webSite": "https://mo.91muou.icu",
@@ -5848,7 +5848,7 @@
       "logo": ""
     },
     {
-      "api": "vod/js/xiaomi.js",
+      "api": "https://cdn.jsdelivr.net/gh/g1005/uzn-live@main/vod/js/xiaomi.js",
       "name": "[盘]小米盘",
       "instance": "extApp",
       "webSite": "http://www.mucpan.cc",
@@ -5866,7 +5866,7 @@
       "logo": ""
     },
     {
-      "api": "vod/js/duoduo.js",
+      "api": "https://cdn.jsdelivr.net/gh/g1005/uzn-live@main/vod/js/duoduo.js",
       "name": "[盘]多多盘",
       "instance": "extApp",
       "webSite": "https://tv.yydsys.top",
@@ -5884,7 +5884,7 @@
       "logo": ""
     },
     {
-      "api": "vod/js/nanfdj.js",
+      "api": "https://cdn.jsdelivr.net/gh/g1005/uzn-live@main/vod/js/nanfdj.js",
       "name": "[盘]南风短剧",
       "instance": "extApp",
       "webSite": "https://www.nanf.cc",
@@ -5902,7 +5902,7 @@
       "logo": ""
     },
     {
-      "api": "vod/js/liuqu.js",
+      "api": "https://cdn.jsdelivr.net/gh/g1005/uzn-live@main/vod/js/liuqu.js",
       "name": "[盘]六趣盘",
       "instance": "extApp",
       "webSite": "https://wp.0v.fit",
@@ -5920,7 +5920,7 @@
       "logo": ""
     },
     {
-      "api": "vod/js/mifun.js",
+      "api": "https://cdn.jsdelivr.net/gh/g1005/uzn-live@main/vod/js/mifun.js",
       "name": "[嗅]mifun",
       "instance": "extApp",
       "webSite": "http://www.mifun.tw",
@@ -5938,7 +5938,7 @@
       "logo": ""
     },
     {
-      "api": "vod/js/eacg2.js",
+      "api": "https://cdn.jsdelivr.net/gh/g1005/uzn-live@main/vod/js/eacg2.js",
       "name": "[嗅]eacg2",
       "instance": "extApp",
       "webSite": "https://eacg1.com",
@@ -5956,7 +5956,7 @@
       "logo": ""
     },
     {
-      "api": "vod/js/eacg.js",
+      "api": "https://cdn.jsdelivr.net/gh/g1005/uzn-live@main/vod/js/eacg.js",
       "name": "[嗅]eacg",
       "instance": "extApp",
       "webSite": "https://eacg1.com",
@@ -5974,7 +5974,7 @@
       "logo": ""
     },
     {
-      "api": "vod/js/clicli.js",
+      "api": "https://cdn.jsdelivr.net/gh/g1005/uzn-live@main/vod/js/clicli.js",
       "name": "[嗅]clicli",
       "instance": "extApp",
       "webSite": "https://www.clicli.pro",
@@ -5992,7 +5992,7 @@
       "logo": ""
     },
     {
-      "api": "vod/js/aggl.js",
+      "api": "https://cdn.jsdelivr.net/gh/g1005/uzn-live@main/vod/js/aggl.js",
       "name": "[嗅]aggl",
       "instance": "extApp",
       "webSite": "https://anime.girigirilove.com",
@@ -6010,7 +6010,7 @@
       "logo": ""
     },
     {
-      "api": "vod/js/missav.js",
+      "api": "https://cdn.jsdelivr.net/gh/g1005/uzn-live@main/vod/js/missav.js",
       "name": "MISSAV",
       "instance": "missav20240627",
       "webSite": "https://missav.ai",
@@ -6028,7 +6028,7 @@
       "logo": ""
     },
     {
-      "api": "vod/js/虎斑网盘.js",
+      "api": "https://cdn.jsdelivr.net/gh/g1005/uzn-live@main/vod/js/%E8%99%8E%E6%96%91%E7%BD%91%E7%9B%98.js",
       "name": "🐯小小虎斑",
       "instance": "extApp",
       "webSite": "http://103.45.162.207:20720",
@@ -6046,7 +6046,7 @@
       "logo": ""
     },
     {
-      "api": "vod/js/下饭网盘.js",
+      "api": "https://cdn.jsdelivr.net/gh/g1005/uzn-live@main/vod/js/%E4%B8%8B%E9%A5%AD%E7%BD%91%E7%9B%98.js",
       "name": "🍚特下饭盘",
       "instance": "extApp",
       "webSite": "http://www.xn--ghqy10g1w0a.xyz/",
@@ -6064,7 +6064,7 @@
       "logo": ""
     },
     {
-      "api": "vod/js/pansearch.txt",
+      "api": "https://cdn.jsdelivr.net/gh/g1005/uzn-live@main/vod/js/pansearch.txt",
       "name": "🔍网盘搜索",
       "instance": "extApp",
       "webSite": "https://www.pansearch.me",
@@ -6084,7 +6084,7 @@
       "logo": ""
     },
     {
-      "api": "vod/js/玩偶.js",
+      "api": "https://cdn.jsdelivr.net/gh/g1005/uzn-live@main/vod/js/%E7%8E%A9%E5%81%B6.js",
       "name": "玩偶 | 4K",
       "instance": "extApp",
       "webSite": "http://wogg.xxooo.cf",
@@ -6102,7 +6102,7 @@
       "logo": ""
     },
     {
-      "api": "vod/js/木偶.js",
+      "api": "https://cdn.jsdelivr.net/gh/g1005/uzn-live@main/vod/js/%E6%9C%A8%E5%81%B6.js",
       "name": "木偶 | 4K",
       "instance": "extApp",
       "webSite": "https://mo.91muou.icu/",
@@ -6120,7 +6120,7 @@
       "logo": ""
     },
     {
-      "api": "vod/js/多多.js",
+      "api": "https://cdn.jsdelivr.net/gh/g1005/uzn-live@main/vod/js/%E5%A4%9A%E5%A4%9A.js",
       "name": "多多 | 4K",
       "instance": "extApp",
       "webSite": "https://tv.yydsys.cc",
@@ -6138,7 +6138,7 @@
       "logo": ""
     },
     {
-      "api": "vod/js/蜡笔.js",
+      "api": "https://cdn.jsdelivr.net/gh/g1005/uzn-live@main/vod/js/%E8%9C%A1%E7%AC%94.js",
       "name": "蜡笔 | 4K",
       "instance": "extApp",
       "webSite": "https://feimaoai.site",
@@ -6156,7 +6156,7 @@
       "logo": ""
     },
     {
-      "api": "vod/js/闪电.js",
+      "api": "https://cdn.jsdelivr.net/gh/g1005/uzn-live@main/vod/js/%E9%97%AA%E7%94%B5.js",
       "name": "闪电 | 4K",
       "instance": "extApp",
       "webSite": "http://1.95.79.193/",
@@ -6174,7 +6174,7 @@
       "logo": ""
     },
     {
-      "api": "vod/js/至臻.js",
+      "api": "https://cdn.jsdelivr.net/gh/g1005/uzn-live@main/vod/js/%E8%87%B3%E8%87%BB.js",
       "name": "至臻 | 4K",
       "instance": "extApp",
       "webSite": "https://xiaomi666.fun/",
@@ -6192,7 +6192,7 @@
       "logo": ""
     },
     {
-      "api": "vod/js/欧歌.js",
+      "api": "https://cdn.jsdelivr.net/gh/g1005/uzn-live@main/vod/js/%E6%AC%A7%E6%AD%8C.js",
       "name": "欧歌 | 4K",
       "instance": "extApp",
       "webSite": "https://woog.nxog.eu.org",
@@ -6210,7 +6210,7 @@
       "logo": ""
     },
     {
-      "api": "vod/js/小米.js",
+      "api": "https://cdn.jsdelivr.net/gh/g1005/uzn-live@main/vod/js/%E5%B0%8F%E7%B1%B3.js",
       "name": "小米 | 4K",
       "instance": "extApp",
       "webSite": "https://www.mucpan.cc",
@@ -6228,7 +6228,7 @@
       "logo": ""
     },
     {
-      "api": "vod/js/下饭.js",
+      "api": "https://cdn.jsdelivr.net/gh/g1005/uzn-live@main/vod/js/%E4%B8%8B%E9%A5%AD.js",
       "name": "下饭 | 4K",
       "instance": "extApp",
       "webSite": "http://www.xn--ghqy10g1w0a.xyz/",
@@ -6246,7 +6246,7 @@
       "logo": ""
     },
     {
-      "api": "vod/js/虎斑.js",
+      "api": "https://cdn.jsdelivr.net/gh/g1005/uzn-live@main/vod/js/%E8%99%8E%E6%96%91.js",
       "name": "虎斑 | 4K",
       "instance": "extApp",
       "webSite": "http://43.138.242.105:9696/",
@@ -6264,7 +6264,7 @@
       "logo": ""
     },
     {
-      "api": "vod/js/二小.js",
+      "api": "https://cdn.jsdelivr.net/gh/g1005/uzn-live@main/vod/js/%E4%BA%8C%E5%B0%8F.js",
       "name": "二小 | 4K",
       "instance": "extApp",
       "webSite": "https://xhww.net/",
@@ -6282,7 +6282,7 @@
       "logo": ""
     },
     {
-      "api": "vod/js/百家.js",
+      "api": "https://cdn.jsdelivr.net/gh/g1005/uzn-live@main/vod/js/%E7%99%BE%E5%AE%B6.js",
       "name": "百家 | 4K",
       "instance": "extApp",
       "webSite": "http://cj.jiexi.news/",
@@ -6300,7 +6300,7 @@
       "logo": ""
     },
     {
-      "api": "vod/js/大玩.js",
+      "api": "https://cdn.jsdelivr.net/gh/g1005/uzn-live@main/vod/js/%E5%A4%A7%E7%8E%A9.js",
       "name": "大玩 | 4K",
       "instance": "extApp",
       "webSite": "http://149.88.87.18:6688",
@@ -6318,7 +6318,7 @@
       "logo": ""
     },
     {
-      "api": "vod/js/ouge.js",
+      "api": "https://cdn.jsdelivr.net/gh/g1005/uzn-live@main/vod/js/ouge.js",
       "name": "[盘]讴歌盘",
       "instance": "extApp",
       "webSite": "https://woog.nxog.eu.org",
@@ -6336,7 +6336,7 @@
       "logo": ""
     },
     {
-      "api": "vod/js/ouge2.js",
+      "api": "https://cdn.jsdelivr.net/gh/g1005/uzn-live@main/vod/js/ouge2.js",
       "name": "[盘]讴歌盘备",
       "instance": "extApp",
       "webSite": "https://woog.xn--dkw.xn--6qq986b3xl",
@@ -6354,7 +6354,7 @@
       "logo": ""
     },
     {
-      "api": "vod/js/cms.js",
+      "api": "https://cdn.jsdelivr.net/gh/g1005/uzn-live@main/vod/js/cms.js",
       "name": "[解]通用官方采集",
       "instance": "extApp",
       "webSite": "https://zy.hls.one/api.php/provide/vod",
@@ -6372,7 +6372,7 @@
       "logo": ""
     },
     {
-      "api": "vod/js/dandanju.js",
+      "api": "https://cdn.jsdelivr.net/gh/g1005/uzn-live@main/vod/js/dandanju.js",
       "name": "[直]蛋蛋剧",
       "instance": "extApp",
       "webSite": "https://www.dandanju.tv",
@@ -6390,7 +6390,7 @@
       "logo": ""
     },
     {
-      "api": "vod/js/changZhang20240614.js",
+      "api": "https://cdn.jsdelivr.net/gh/g1005/uzn-live@main/vod/js/changZhang20240614.js",
       "name": "[直]厂长影视",
       "instance": "extApp",
       "webSite": "https://www.czzy77.com",
@@ -6408,7 +6408,7 @@
       "logo": ""
     },
     {
-      "api": "vod/js/bttwo.js",
+      "api": "https://cdn.jsdelivr.net/gh/g1005/uzn-live@main/vod/js/bttwo.js",
       "name": "[直]两个bt",
       "instance": "extApp",
       "webSite": "https://www.bttwoo.com",
@@ -6426,7 +6426,7 @@
       "logo": ""
     },
     {
-      "api": "vod/js/shandian.js",
+      "api": "https://cdn.jsdelivr.net/gh/g1005/uzn-live@main/vod/js/shandian.js",
       "name": "[盘]闪电优汐",
       "instance": "extApp",
       "webSite": "http://1.95.79.193/",
@@ -6444,7 +6444,7 @@
       "logo": ""
     },
     {
-      "api": "vod/js/labipan.js",
+      "api": "https://cdn.jsdelivr.net/gh/g1005/uzn-live@main/vod/js/labipan.js",
       "name": "[盘]蜡笔盘",
       "instance": "extApp",
       "webSite": "https://duopan.fun",
@@ -6462,7 +6462,7 @@
       "logo": ""
     },
     {
-      "api": "vod/js/huban.js",
+      "api": "https://cdn.jsdelivr.net/gh/g1005/uzn-live@main/vod/js/huban.js",
       "name": "[盘]虎斑盘",
       "instance": "extApp",
       "webSite": "http://103.45.162.207:20720",
@@ -6480,7 +6480,7 @@
       "logo": ""
     },
     {
-      "api": "vod/js/zhizhen.js",
+      "api": "https://cdn.jsdelivr.net/gh/g1005/uzn-live@main/vod/js/zhizhen.js",
       "name": "[盘]至臻盘",
       "instance": "extApp",
       "webSite": "https://mihdr.top",
@@ -6498,7 +6498,7 @@
       "logo": ""
     },
     {
-      "api": "vod/js/wobg.js",
+      "api": "https://cdn.jsdelivr.net/gh/g1005/uzn-live@main/vod/js/wobg.js",
       "name": "[盘]玩偶哥哥",
       "instance": "extApp",
       "webSite": "http://wogg.xxooo.cf",
@@ -6516,7 +6516,7 @@
       "logo": ""
     },
     {
-      "api": "vod/js/xiafan.js",
+      "api": "https://cdn.jsdelivr.net/gh/g1005/uzn-live@main/vod/js/xiafan.js",
       "name": "[盘]特下饭",
       "instance": "extApp",
       "webSite": "http://www.xn--ghqy10g1w0a.xyz/",
@@ -6534,7 +6534,7 @@
       "logo": ""
     },
     {
-      "api": "vod/js/mogg.js",
+      "api": "https://cdn.jsdelivr.net/gh/g1005/uzn-live@main/vod/js/mogg.js",
       "name": "[盘]木偶",
       "instance": "extApp",
       "webSite": "https://mo.91muou.icu",
@@ -6552,7 +6552,7 @@
       "logo": ""
     },
     {
-      "api": "vod/js/xiaomi.js",
+      "api": "https://cdn.jsdelivr.net/gh/g1005/uzn-live@main/vod/js/xiaomi.js",
       "name": "[盘]小米盘",
       "instance": "extApp",
       "webSite": "http://www.mucpan.cc",
@@ -6570,7 +6570,7 @@
       "logo": ""
     },
     {
-      "api": "vod/js/duoduo.js",
+      "api": "https://cdn.jsdelivr.net/gh/g1005/uzn-live@main/vod/js/duoduo.js",
       "name": "[盘]多多盘",
       "instance": "extApp",
       "webSite": "https://tv.yydsys.top",
@@ -6588,7 +6588,7 @@
       "logo": ""
     },
     {
-      "api": "vod/js/nanfdj.js",
+      "api": "https://cdn.jsdelivr.net/gh/g1005/uzn-live@main/vod/js/nanfdj.js",
       "name": "[盘]南风短剧",
       "instance": "extApp",
       "webSite": "https://www.nanf.cc",
@@ -6606,7 +6606,7 @@
       "logo": ""
     },
     {
-      "api": "vod/js/liuqu.js",
+      "api": "https://cdn.jsdelivr.net/gh/g1005/uzn-live@main/vod/js/liuqu.js",
       "name": "[盘]六趣盘",
       "instance": "extApp",
       "webSite": "https://wp.0v.fit",
@@ -6624,7 +6624,7 @@
       "logo": ""
     },
     {
-      "api": "vod/js/mifun.js",
+      "api": "https://cdn.jsdelivr.net/gh/g1005/uzn-live@main/vod/js/mifun.js",
       "name": "[嗅]mifun",
       "instance": "extApp",
       "webSite": "http://www.mifun.tw",
@@ -6642,7 +6642,7 @@
       "logo": ""
     },
     {
-      "api": "vod/js/eacg2.js",
+      "api": "https://cdn.jsdelivr.net/gh/g1005/uzn-live@main/vod/js/eacg2.js",
       "name": "[嗅]eacg2",
       "instance": "extApp",
       "webSite": "https://eacg1.com",
@@ -6660,7 +6660,7 @@
       "logo": ""
     },
     {
-      "api": "vod/js/eacg.js",
+      "api": "https://cdn.jsdelivr.net/gh/g1005/uzn-live@main/vod/js/eacg.js",
       "name": "[嗅]eacg",
       "instance": "extApp",
       "webSite": "https://eacg1.com",
@@ -6678,7 +6678,7 @@
       "logo": ""
     },
     {
-      "api": "vod/js/clicli.js",
+      "api": "https://cdn.jsdelivr.net/gh/g1005/uzn-live@main/vod/js/clicli.js",
       "name": "[嗅]clicli",
       "instance": "extApp",
       "webSite": "https://www.clicli.pro",
@@ -6696,7 +6696,7 @@
       "logo": ""
     },
     {
-      "api": "vod/js/aggl.js",
+      "api": "https://cdn.jsdelivr.net/gh/g1005/uzn-live@main/vod/js/aggl.js",
       "name": "[嗅]aggl",
       "instance": "extApp",
       "webSite": "https://anime.girigirilove.com",
@@ -6714,7 +6714,7 @@
       "logo": ""
     },
     {
-      "api": "vod/js/cms2.js",
+      "api": "https://cdn.jsdelivr.net/gh/g1005/uzn-live@main/vod/js/cms2.js",
       "name": "[解]通用官方采集2",
       "instance": "extApp",
       "webSite": "https://zy.hls.one/api.php/provide/vod",
@@ -6732,7 +6732,7 @@
       "logo": ""
     },
     {
-      "api": "vod/js/cms.js",
+      "api": "https://cdn.jsdelivr.net/gh/g1005/uzn-live@main/vod/js/cms.js",
       "name": "[解]通用官方采集",
       "instance": "extApp",
       "webSite": "https://zy.hls.one/api.php/provide/vod",
@@ -6750,7 +6750,7 @@
       "logo": ""
     },
     {
-      "api": "vod/js/dandanju.js",
+      "api": "https://cdn.jsdelivr.net/gh/g1005/uzn-live@main/vod/js/dandanju.js",
       "name": "[直]蛋蛋剧",
       "instance": "extApp",
       "webSite": "https://www.dandanju.tv",
@@ -6768,7 +6768,7 @@
       "logo": ""
     },
     {
-      "api": "vod/js/jocy.js",
+      "api": "https://cdn.jsdelivr.net/gh/g1005/uzn-live@main/vod/js/jocy.js",
       "name": "[直]囧次元",
       "instance": "extApp",
       "webSite": "https://jocy.app",
@@ -6786,7 +6786,7 @@
       "logo": ""
     },
     {
-      "api": "vod/js/changZhang20240614.js",
+      "api": "https://cdn.jsdelivr.net/gh/g1005/uzn-live@main/vod/js/changZhang20240614.js",
       "name": "[直]厂长影视",
       "instance": "extApp",
       "webSite": "https://www.czzy77.com",
@@ -6804,7 +6804,7 @@
       "logo": ""
     },
     {
-      "api": "vod/js/bttwo.js",
+      "api": "https://cdn.jsdelivr.net/gh/g1005/uzn-live@main/vod/js/bttwo.js",
       "name": "[直]两个bt",
       "instance": "extApp",
       "webSite": "https://www.bttwoo.com",
@@ -6822,7 +6822,7 @@
       "logo": ""
     },
     {
-      "api": "vod/js/shandian.js",
+      "api": "https://cdn.jsdelivr.net/gh/g1005/uzn-live@main/vod/js/shandian.js",
       "name": "[盘]闪电优汐",
       "instance": "extApp",
       "webSite": "http://1.95.79.193/",
@@ -6840,7 +6840,7 @@
       "logo": ""
     },
     {
-      "api": "vod/js/ouge.js",
+      "api": "https://cdn.jsdelivr.net/gh/g1005/uzn-live@main/vod/js/ouge.js",
       "name": "[盘]讴歌盘",
       "instance": "extApp",
       "webSite": "https://woog.nxog.eu.org",
@@ -6858,7 +6858,7 @@
       "logo": ""
     },
     {
-      "api": "vod/js/labipan.js",
+      "api": "https://cdn.jsdelivr.net/gh/g1005/uzn-live@main/vod/js/labipan.js",
       "name": "[盘]蜡笔盘",
       "instance": "extApp",
       "webSite": "https://duopan.fun",
@@ -6876,7 +6876,7 @@
       "logo": ""
     },
     {
-      "api": "vod/js/huban.js",
+      "api": "https://cdn.jsdelivr.net/gh/g1005/uzn-live@main/vod/js/huban.js",
       "name": "[盘]虎斑盘",
       "instance": "extApp",
       "webSite": "http://103.45.162.207:20720",
@@ -6894,7 +6894,7 @@
       "logo": ""
     },
     {
-      "api": "vod/js/zhizhen.js",
+      "api": "https://cdn.jsdelivr.net/gh/g1005/uzn-live@main/vod/js/zhizhen.js",
       "name": "[盘]至臻盘",
       "instance": "extApp",
       "webSite": "https://mihdr.top",
@@ -6912,7 +6912,7 @@
       "logo": ""
     },
     {
-      "api": "vod/js/wobg.js",
+      "api": "https://cdn.jsdelivr.net/gh/g1005/uzn-live@main/vod/js/wobg.js",
       "name": "[盘]玩偶哥哥",
       "instance": "extApp",
       "webSite": "http://wogg.xxooo.cf",
@@ -6930,7 +6930,7 @@
       "logo": ""
     },
     {
-      "api": "vod/js/xiafan.js",
+      "api": "https://cdn.jsdelivr.net/gh/g1005/uzn-live@main/vod/js/xiafan.js",
       "name": "[盘]特下饭",
       "instance": "extApp",
       "webSite": "http://www.xn--ghqy10g1w0a.xyz/",
@@ -6948,7 +6948,7 @@
       "logo": ""
     },
     {
-      "api": "vod/js/mogg.js",
+      "api": "https://cdn.jsdelivr.net/gh/g1005/uzn-live@main/vod/js/mogg.js",
       "name": "[盘]木偶",
       "instance": "extApp",
       "webSite": "https://mo.91muou.icu",
@@ -6966,7 +6966,7 @@
       "logo": ""
     },
     {
-      "api": "vod/js/xiaomi.js",
+      "api": "https://cdn.jsdelivr.net/gh/g1005/uzn-live@main/vod/js/xiaomi.js",
       "name": "[盘]小米盘",
       "instance": "extApp",
       "webSite": "http://www.mucpan.cc",
@@ -6984,7 +6984,7 @@
       "logo": ""
     },
     {
-      "api": "vod/js/duoduo.js",
+      "api": "https://cdn.jsdelivr.net/gh/g1005/uzn-live@main/vod/js/duoduo.js",
       "name": "[盘]多多盘",
       "instance": "extApp",
       "webSite": "https://tv.yydsys.top",
@@ -7002,7 +7002,7 @@
       "logo": ""
     },
     {
-      "api": "vod/js/nanfdj.js",
+      "api": "https://cdn.jsdelivr.net/gh/g1005/uzn-live@main/vod/js/nanfdj.js",
       "name": "[盘]南风短剧",
       "instance": "extApp",
       "webSite": "https://www.nanf.cc",
@@ -7020,7 +7020,7 @@
       "logo": ""
     },
     {
-      "api": "vod/js/liuqu.js",
+      "api": "https://cdn.jsdelivr.net/gh/g1005/uzn-live@main/vod/js/liuqu.js",
       "name": "[盘]六趣盘",
       "instance": "extApp",
       "webSite": "https://wp.0v.fit",
@@ -7038,7 +7038,7 @@
       "logo": ""
     },
     {
-      "api": "vod/js/tgs.js",
+      "api": "https://cdn.jsdelivr.net/gh/g1005/uzn-live@main/vod/js/tgs.js",
       "name": "[盘]TG搜",
       "instance": "extApp",
       "webSite": "123资源@zyfb123&天翼日更@tianyirigeng&木偶UC@ucpanpan&夸克电影@alyp_4K_Movies&夸克剧集@alyp_TV&夸克动漫@alyp_Animation&CH资源@ChangAn2504",
@@ -7056,7 +7056,7 @@
       "logo": ""
     },
     {
-      "api": "vod/js/mifun.js",
+      "api": "https://cdn.jsdelivr.net/gh/g1005/uzn-live@main/vod/js/mifun.js",
       "name": "[嗅]mifun",
       "instance": "extApp",
       "webSite": "http://www.mifun.tw",
@@ -7074,7 +7074,7 @@
       "logo": ""
     },
     {
-      "api": "vod/js/eacg2.js",
+      "api": "https://cdn.jsdelivr.net/gh/g1005/uzn-live@main/vod/js/eacg2.js",
       "name": "[嗅]eacg2",
       "instance": "extApp",
       "webSite": "https://eacg1.com",
@@ -7092,7 +7092,7 @@
       "logo": ""
     },
     {
-      "api": "vod/js/eacg.js",
+      "api": "https://cdn.jsdelivr.net/gh/g1005/uzn-live@main/vod/js/eacg.js",
       "name": "[嗅]eacg",
       "instance": "extApp",
       "webSite": "https://eacg1.com",
@@ -7110,7 +7110,7 @@
       "logo": ""
     },
     {
-      "api": "vod/js/clicli.js",
+      "api": "https://cdn.jsdelivr.net/gh/g1005/uzn-live@main/vod/js/clicli.js",
       "name": "[嗅]clicli",
       "instance": "extApp",
       "webSite": "https://www.clicli.pro",
@@ -7128,7 +7128,7 @@
       "logo": ""
     },
     {
-      "api": "vod/js/aggl.js",
+      "api": "https://cdn.jsdelivr.net/gh/g1005/uzn-live@main/vod/js/aggl.js",
       "name": "[嗅]aggl",
       "instance": "extApp",
       "webSite": "https://anime.girigirilove.com",
@@ -7146,7 +7146,7 @@
       "logo": ""
     },
     {
-      "api": "vod/js/91jav.js",
+      "api": "https://cdn.jsdelivr.net/gh/g1005/uzn-live@main/vod/js/91jav.js",
       "name": "[直|18]91jav",
       "instance": "extApp",
       "webSite": "https://041.bndmpsjx.com",
@@ -7164,7 +7164,7 @@
       "logo": ""
     },
     {
-      "api": "vod/js/pansearch.txt",
+      "api": "https://cdn.jsdelivr.net/gh/g1005/uzn-live@main/vod/js/pansearch.txt",
       "name": "PanSearch",
       "instance": "extApp",
       "webSite": "https://www.pansearch.me",
@@ -7184,7 +7184,7 @@
       "logo": ""
     },
     {
-      "api": "vod/js/Jian_douban2.txt",
+      "api": "https://cdn.jsdelivr.net/gh/g1005/uzn-live@main/vod/js/Jian_douban2.txt",
       "name": "[荐] 豆瓣",
       "instance": "extApp",
       "webSite": "https://movie.douban.com",
@@ -7202,7 +7202,7 @@
       "logo": ""
     },
     {
-      "api": "vod/js/Pan_wogg.js",
+      "api": "https://cdn.jsdelivr.net/gh/g1005/uzn-live@main/vod/js/Pan_wogg.js",
       "name": "[盘] 玩偶",
       "instance": "extApp",
       "webSite": "http://wogg.xxooo.cf",
@@ -7220,7 +7220,7 @@
       "logo": ""
     },
     {
-      "api": "vod/js/Pan_mogg.js",
+      "api": "https://cdn.jsdelivr.net/gh/g1005/uzn-live@main/vod/js/Pan_mogg.js",
       "name": "[盘] 木偶",
       "instance": "extApp",
       "webSite": "https://666.666291.xyz",
@@ -7238,7 +7238,7 @@
       "logo": ""
     },
     {
-      "api": "vod/js/Pan_labipan.js",
+      "api": "https://cdn.jsdelivr.net/gh/g1005/uzn-live@main/vod/js/Pan_labipan.js",
       "name": "[盘] 蜡笔",
       "instance": "extApp",
       "webSite": "http://feimao888.fun",
@@ -7256,7 +7256,7 @@
       "logo": ""
     },
     {
-      "api": "vod/js/Pan_huban.js",
+      "api": "https://cdn.jsdelivr.net/gh/g1005/uzn-live@main/vod/js/Pan_huban.js",
       "name": "[盘] 虎斑",
       "instance": "extApp",
       "webSite": "http://103.45.162.207:20720",
@@ -7274,7 +7274,7 @@
       "logo": ""
     },
     {
-      "api": "vod/js/Pan_erxiao.js",
+      "api": "https://cdn.jsdelivr.net/gh/g1005/uzn-live@main/vod/js/Pan_erxiao.js",
       "name": "[盘] 二小",
       "instance": "extApp",
       "webSite": "http://2xiaopan.fun",
@@ -7292,7 +7292,7 @@
       "logo": ""
     },
     {
-      "api": "vod/js/Pan_zhizhen.js",
+      "api": "https://cdn.jsdelivr.net/gh/g1005/uzn-live@main/vod/js/Pan_zhizhen.js",
       "name": "[盘] 至臻",
       "instance": "extApp",
       "webSite": "http://www.miqk.cc",
@@ -7310,7 +7310,7 @@
       "logo": ""
     },
     {
-      "api": "vod/js/Pan_ouge.js",
+      "api": "https://cdn.jsdelivr.net/gh/g1005/uzn-live@main/vod/js/Pan_ouge.js",
       "name": "[盘] 欧歌",
       "instance": "extApp",
       "webSite": "https://woog.nxog.eu.org",
@@ -7328,7 +7328,7 @@
       "logo": ""
     },
     {
-      "api": "vod/js/Pan_duoduo.js",
+      "api": "https://cdn.jsdelivr.net/gh/g1005/uzn-live@main/vod/js/Pan_duoduo.js",
       "name": "[盘] 多多",
       "instance": "extApp",
       "webSite": "https://tv.yydsys.top",
@@ -7346,7 +7346,7 @@
       "logo": ""
     },
     {
-      "api": "vod/js/Pan_zishiying.txt",
+      "api": "https://cdn.jsdelivr.net/gh/g1005/uzn-live@main/vod/js/Pan_zishiying.txt",
       "name": "[盘] 小斑",
       "instance": "extApp",
       "webSite": "http://xsayang.fun:12512",
@@ -7364,7 +7364,7 @@
       "logo": ""
     },
     {
-      "api": "vod/js/Pan_HDmoli.txt",
+      "api": "https://cdn.jsdelivr.net/gh/g1005/uzn-live@main/vod/js/Pan_HDmoli.txt",
       "name": "[盘] 茉莉",
       "instance": "extApp",
       "webSite": "https://www.hdmoli.pro/",
@@ -7382,7 +7382,7 @@
       "logo": ""
     },
     {
-      "api": "vod/js/Pan_leijing2.txt",
+      "api": "https://cdn.jsdelivr.net/gh/g1005/uzn-live@main/vod/js/Pan_leijing2.txt",
       "name": "[盘] 雷鲸²",
       "instance": "extApp",
       "webSite": "https://www.leijing.xyz/",
@@ -7400,7 +7400,7 @@
       "logo": ""
     },
     {
-      "api": "vod/js/Pan_nanfdj.js",
+      "api": "https://cdn.jsdelivr.net/gh/g1005/uzn-live@main/vod/js/Pan_nanfdj.js",
       "name": "[盘] 南风",
       "instance": "extApp",
       "webSite": "https://www.nanf.cc",
@@ -7418,7 +7418,7 @@
       "logo": ""
     },
     {
-      "api": "vod/js/Pan_tgs.js",
+      "api": "https://cdn.jsdelivr.net/gh/g1005/uzn-live@main/vod/js/Pan_tgs.js",
       "name": "[盘] TG搜",
       "instance": "extApp",
       "webSite": "豆儿盘@douerpan&偶豆豆@odoudouo&豆儿123@zyfb123&LEO资源@leoziyuan&资源宇宙@tgsearchers7",
@@ -7436,7 +7436,7 @@
       "logo": "https://cdn.jsdelivr.net/gh/YYDS678/uzVideo-extensions@main/logo/tg.png"
     },
     {
-      "api": "vod/js/Pan_tgs_api.js",
+      "api": "https://cdn.jsdelivr.net/gh/g1005/uzn-live@main/vod/js/Pan_tgs_api.js",
       "name": "[盘] TG搜²",
       "instance": "extApp",
       "webSite": "123资源@zyfb123&天翼日更@tianyirigeng&天翼臻影@tyysypzypd&百度@bdwpzhpd&移动@ydypzyfx&夸克百度@Aliyun_4K_Movies&夸克UC@ucquark&夸克电影@Q_dianying&夸克剧集@Q_dianshiju&夸克动漫@Q_dongman",
@@ -7454,7 +7454,7 @@
       "logo": ""
     },
     {
-      "api": "vod/js/Pan_pansou.txt",
+      "api": "https://cdn.jsdelivr.net/gh/g1005/uzn-live@main/vod/js/Pan_pansou.txt",
       "name": "[盘] PanSou",
       "instance": "extApp",
       "webSite": "https://so.252035.xyz",
@@ -7472,7 +7472,7 @@
       "logo": ""
     },
     {
-      "api": "vod/js/Pan_bixin.txt",
+      "api": "https://cdn.jsdelivr.net/gh/g1005/uzn-live@main/vod/js/Pan_bixin.txt",
       "name": "[盘] 彼心",
       "instance": "extApp",
       "webSite": "https://www.bixbiy.com/",
@@ -7490,7 +7490,7 @@
       "logo": ""
     },
     {
-      "api": "vod/js/Zhi_emby.txt",
+      "api": "https://cdn.jsdelivr.net/gh/g1005/uzn-live@main/vod/js/Zhi_emby.txt",
       "name": "[直] Emby",
       "instance": "extApp",
       "webSite": "emby服务器地址",
@@ -7508,7 +7508,7 @@
       "logo": ""
     },
     {
-      "api": "vod/js/Zhi_alist.txt",
+      "api": "https://cdn.jsdelivr.net/gh/g1005/uzn-live@main/vod/js/Zhi_alist.txt",
       "name": "[直] Alist",
       "instance": "extApp",
       "webSite": "https://download.avemujica.org",
@@ -7526,7 +7526,7 @@
       "logo": ""
     },
     {
-      "api": "vod/js/Zhi_gdstudio.txt",
+      "api": "https://cdn.jsdelivr.net/gh/g1005/uzn-live@main/vod/js/Zhi_gdstudio.txt",
       "name": "[直] GD音乐台",
       "instance": "extApp",
       "webSite": "https://music.gdstudio.xyz/",
@@ -7544,7 +7544,7 @@
       "logo": "https://img.geekie.site/i/2026/02/23/220741.png"
     },
     {
-      "api": "vod/js/Xiu_eacg.js",
+      "api": "https://cdn.jsdelivr.net/gh/g1005/uzn-live@main/vod/js/Xiu_eacg.js",
       "name": "[嗅] E-ACG",
       "instance": "extApp",
       "webSite": "https://eacg1.com",
@@ -7562,7 +7562,7 @@
       "logo": ""
     },
     {
-      "api": "vod/js/Xiu_eacg2.js",
+      "api": "https://cdn.jsdelivr.net/gh/g1005/uzn-live@main/vod/js/Xiu_eacg2.js",
       "name": "[嗅] E-ACG2",
       "instance": "extApp",
       "webSite": "https://eacg1.com",
@@ -7580,7 +7580,7 @@
       "logo": ""
     },
     {
-      "api": "vod/js/Xiu_MuteFun.js",
+      "api": "https://cdn.jsdelivr.net/gh/g1005/uzn-live@main/vod/js/Xiu_MuteFun.js",
       "name": "[嗅] MuteFun",
       "instance": "extApp",
       "webSite": "https://www.mutean.com",
@@ -7598,7 +7598,7 @@
       "logo": ""
     },
     {
-      "api": "vod/js/Cai_cmsUser.js",
+      "api": "https://cdn.jsdelivr.net/gh/g1005/uzn-live@main/vod/js/Cai_cmsUser.js",
       "name": "[采] 自建CMS",
       "instance": "extApp",
       "webSite": "https://cj.rycjapi.com/api.php/provide/vod",
@@ -7616,7 +7616,7 @@
       "logo": ""
     },
     {
-      "api": "vod/js/Zhi_kwts.txt",
+      "api": "https://cdn.jsdelivr.net/gh/g1005/uzn-live@main/vod/js/Zhi_kwts.txt",
       "name": "[直] 酷我听书",
       "instance": "extApp",
       "webSite": "http://tingshu.kuwo.cn",
@@ -7634,7 +7634,7 @@
       "logo": ""
     },
     {
-      "api": "vod/js/Jian_douban2.txt",
+      "api": "https://cdn.jsdelivr.net/gh/g1005/uzn-live@main/vod/js/Jian_douban2.txt",
       "name": "[荐] 豆瓣",
       "instance": "extApp",
       "webSite": "https://movie.douban.com",
@@ -7652,7 +7652,7 @@
       "logo": ""
     },
     {
-      "api": "vod/js/Pan_ouge.js",
+      "api": "https://cdn.jsdelivr.net/gh/g1005/uzn-live@main/vod/js/Pan_ouge.js",
       "name": "[盘] 欧歌",
       "instance": "extApp",
       "webSite": "https://woog.nxog.eu.org",
@@ -7670,7 +7670,7 @@
       "logo": ""
     },
     {
-      "api": "vod/js/Pan_ouge.js",
+      "api": "https://cdn.jsdelivr.net/gh/g1005/uzn-live@main/vod/js/Pan_ouge.js",
       "name": "[备] 欧歌",
       "instance": "extApp",
       "webSite": "https://woog.nxog.fun",
@@ -7688,7 +7688,7 @@
       "logo": ""
     },
     {
-      "api": "vod/js/Pan_wogg.js",
+      "api": "https://cdn.jsdelivr.net/gh/g1005/uzn-live@main/vod/js/Pan_wogg.js",
       "name": "[盘] 玩偶",
       "instance": "extApp",
       "webSite": "http://wogg.xxooo.cf",
@@ -7706,7 +7706,7 @@
       "logo": ""
     },
     {
-      "api": "vod/js/Pan_mogg.js",
+      "api": "https://cdn.jsdelivr.net/gh/g1005/uzn-live@main/vod/js/Pan_mogg.js",
       "name": "[盘] 木偶",
       "instance": "extApp",
       "webSite": "https://666.666291.xyz",
@@ -7724,7 +7724,7 @@
       "logo": ""
     },
     {
-      "api": "vod/js/Pan_labipan.js",
+      "api": "https://cdn.jsdelivr.net/gh/g1005/uzn-live@main/vod/js/Pan_labipan.js",
       "name": "[盘] 蜡笔",
       "instance": "extApp",
       "webSite": "http://feimao888.fun",
@@ -7742,7 +7742,7 @@
       "logo": ""
     },
     {
-      "api": "vod/js/Pan_huban.js",
+      "api": "https://cdn.jsdelivr.net/gh/g1005/uzn-live@main/vod/js/Pan_huban.js",
       "name": "[盘] 虎斑",
       "instance": "extApp",
       "webSite": "http://103.45.162.207:20720",
@@ -7760,7 +7760,7 @@
       "logo": ""
     },
     {
-      "api": "vod/js/Pan_erxiao.js",
+      "api": "https://cdn.jsdelivr.net/gh/g1005/uzn-live@main/vod/js/Pan_erxiao.js",
       "name": "[盘] 二小",
       "instance": "extApp",
       "webSite": "http://2xiaopan.fun",
@@ -7778,7 +7778,7 @@
       "logo": ""
     },
     {
-      "api": "vod/js/Pan_zhizhen.js",
+      "api": "https://cdn.jsdelivr.net/gh/g1005/uzn-live@main/vod/js/Pan_zhizhen.js",
       "name": "[盘] 至臻",
       "instance": "extApp",
       "webSite": "http://www.miqk.cc",
@@ -7796,7 +7796,7 @@
       "logo": ""
     },
     {
-      "api": "vod/js/Pan_duoduo.js",
+      "api": "https://cdn.jsdelivr.net/gh/g1005/uzn-live@main/vod/js/Pan_duoduo.js",
       "name": "[盘] 多多",
       "instance": "extApp",
       "webSite": "https://tv.yydsys.top",
@@ -7814,7 +7814,7 @@
       "logo": ""
     },
     {
-      "api": "vod/js/Pan_zishiying.txt",
+      "api": "https://cdn.jsdelivr.net/gh/g1005/uzn-live@main/vod/js/Pan_zishiying.txt",
       "name": "[盘] 小斑",
       "instance": "extApp",
       "webSite": "http://xsayang.fun:12512",
@@ -7832,7 +7832,7 @@
       "logo": ""
     },
     {
-      "api": "vod/js/Pan_HDmoli.txt",
+      "api": "https://cdn.jsdelivr.net/gh/g1005/uzn-live@main/vod/js/Pan_HDmoli.txt",
       "name": "[盘] 茉莉",
       "instance": "extApp",
       "webSite": "https://www.hdmoli.pro/",
@@ -7850,7 +7850,7 @@
       "logo": ""
     },
     {
-      "api": "vod/js/Pan_leijing2.txt",
+      "api": "https://cdn.jsdelivr.net/gh/g1005/uzn-live@main/vod/js/Pan_leijing2.txt",
       "name": "[盘] 雷鲸²",
       "instance": "extApp",
       "webSite": "https://www.leijing.xyz/",
@@ -7868,7 +7868,7 @@
       "logo": ""
     },
     {
-      "api": "vod/js/Pan_nanfdj.js",
+      "api": "https://cdn.jsdelivr.net/gh/g1005/uzn-live@main/vod/js/Pan_nanfdj.js",
       "name": "[盘] 南风",
       "instance": "extApp",
       "webSite": "https://www.nanf.cc",
@@ -7886,7 +7886,7 @@
       "logo": ""
     },
     {
-      "api": "vod/js/Pan_tgs.js",
+      "api": "https://cdn.jsdelivr.net/gh/g1005/uzn-live@main/vod/js/Pan_tgs.js",
       "name": "[盘] TG搜",
       "instance": "",
       "webSite": "豆儿盘@douerpan&偶豆豆@odoudouo&豆儿123@zyfb123&LEO资源@leoziyuan&资源宇宙@tgsearchers7",
@@ -7904,7 +7904,7 @@
       "logo": "https://cdn.jsdelivr.net/gh/YYDS678/uzVideo-extensions@main/logo/tg.png"
     },
     {
-      "api": "vod/js/Pan_tgs_api.js",
+      "api": "https://cdn.jsdelivr.net/gh/g1005/uzn-live@main/vod/js/Pan_tgs_api.js",
       "name": "[盘] TG搜²",
       "instance": "extApp",
       "webSite": "123资源@zyfb123&天翼日更@tianyirigeng&天翼臻影@tyysypzypd&百度@bdwpzhpd&移动@ydypzyfx&夸克百度@Aliyun_4K_Movies&夸克UC@ucquark&夸克电影@Q_dianying&夸克剧集@Q_dianshiju&夸克动漫@Q_dongman",
@@ -7922,7 +7922,7 @@
       "logo": ""
     },
     {
-      "api": "vod/js/Pan_bixin.txt",
+      "api": "https://cdn.jsdelivr.net/gh/g1005/uzn-live@main/vod/js/Pan_bixin.txt",
       "name": "[盘] 彼心",
       "instance": "extApp",
       "webSite": "https://www.bixbiy.com/",
@@ -7940,7 +7940,7 @@
       "logo": ""
     },
     {
-      "api": "vod/js/Zhi_biliys.js",
+      "api": "https://cdn.jsdelivr.net/gh/g1005/uzn-live@main/vod/js/Zhi_biliys.js",
       "name": "[直] 修罗",
       "instance": "extApp",
       "webSite": "https://xl01.com.de",
@@ -7958,7 +7958,7 @@
       "logo": ""
     },
     {
-      "api": "vod/js/Zhi_doubi.txt",
+      "api": "https://cdn.jsdelivr.net/gh/g1005/uzn-live@main/vod/js/Zhi_doubi.txt",
       "name": "[直] 豆哔",
       "instance": "extApp",
       "webSite": "doubi",
@@ -7976,7 +7976,7 @@
       "logo": ""
     },
     {
-      "api": "vod/js/Zhi_emby.txt",
+      "api": "https://cdn.jsdelivr.net/gh/g1005/uzn-live@main/vod/js/Zhi_emby.txt",
       "name": "[直] Emby",
       "instance": "extApp",
       "webSite": "emby服务器地址",
@@ -7994,7 +7994,7 @@
       "logo": ""
     },
     {
-      "api": "vod/js/Zhi_alist.txt",
+      "api": "https://cdn.jsdelivr.net/gh/g1005/uzn-live@main/vod/js/Zhi_alist.txt",
       "name": "[直] Alist",
       "instance": "extApp",
       "webSite": "https://download.avemujica.org",
@@ -8012,7 +8012,7 @@
       "logo": ""
     },
     {
-      "api": "vod/js/Zhi_gdstudio.txt",
+      "api": "https://cdn.jsdelivr.net/gh/g1005/uzn-live@main/vod/js/Zhi_gdstudio.txt",
       "name": "[直] GD音乐台",
       "instance": "extApp",
       "webSite": "https://music.gdstudio.xyz/",
@@ -8030,7 +8030,7 @@
       "logo": "https://img.geekie.site/i/2026/02/23/220741.png"
     },
     {
-      "api": "vod/js/Jie_cms.js",
+      "api": "https://cdn.jsdelivr.net/gh/g1005/uzn-live@main/vod/js/Jie_cms.js",
       "name": "[解] 金蝉",
       "instance": "extApp",
       "webSite": "https://zy.jinchancaiji.com/api.php/provide/vod",
@@ -8048,7 +8048,7 @@
       "logo": ""
     },
     {
-      "api": "vod/js/Jie_cms2.js",
+      "api": "https://cdn.jsdelivr.net/gh/g1005/uzn-live@main/vod/js/Jie_cms2.js",
       "name": "[解] 金蝉",
       "instance": "extApp",
       "webSite": "https://zy.jinchancaiji.com/api.php/provide/vod",
@@ -8066,7 +8066,7 @@
       "logo": ""
     },
     {
-      "api": "vod/js/Cai_cmsUser.js",
+      "api": "https://cdn.jsdelivr.net/gh/g1005/uzn-live@main/vod/js/Cai_cmsUser.js",
       "name": "[采] 自建CMS",
       "instance": "extApp",
       "webSite": "https://cj.rycjapi.com/api.php/provide/vod",
@@ -8084,7 +8084,7 @@
       "logo": ""
     },
     {
-      "api": "vod/js/Zhi_kwts.txt",
+      "api": "https://cdn.jsdelivr.net/gh/g1005/uzn-live@main/vod/js/Zhi_kwts.txt",
       "name": "[直] 酷我听书",
       "instance": "extApp",
       "webSite": "http://tingshu.kuwo.cn",
@@ -8102,7 +8102,7 @@
       "logo": ""
     },
     {
-      "api": "vod/js/wanou.js",
+      "api": "https://cdn.jsdelivr.net/gh/g1005/uzn-live@main/vod/js/wanou.js",
       "name": "玩偶 | 4K",
       "instance": "extApp",
       "webSite": "https://wogg.333232.xyz",
@@ -8120,7 +8120,7 @@
       "logo": ""
     },
     {
-      "api": "vod/js/muou.js",
+      "api": "https://cdn.jsdelivr.net/gh/g1005/uzn-live@main/vod/js/muou.js",
       "name": "木偶 | 4K",
       "instance": "extApp",
       "webSite": "https://666.666291.xyz/",
@@ -8138,7 +8138,7 @@
       "logo": ""
     },
     {
-      "api": "vod/js/duoduo.js",
+      "api": "https://cdn.jsdelivr.net/gh/g1005/uzn-live@main/vod/js/duoduo.js",
       "name": "多多 | 4K",
       "instance": "extApp",
       "webSite": "https://tv.yydsys.cc",
@@ -8156,7 +8156,7 @@
       "logo": ""
     },
     {
-      "api": "vod/js/labi.js",
+      "api": "https://cdn.jsdelivr.net/gh/g1005/uzn-live@main/vod/js/labi.js",
       "name": "蜡笔 | 4K",
       "instance": "extApp",
       "webSite": "https://feimaoai.site",
@@ -8174,7 +8174,7 @@
       "logo": ""
     },
     {
-      "api": "vod/js/shandian.js",
+      "api": "https://cdn.jsdelivr.net/gh/g1005/uzn-live@main/vod/js/shandian.js",
       "name": "闪电 | 4K",
       "instance": "extApp",
       "webSite": "http://1.95.79.193/",
@@ -8192,7 +8192,7 @@
       "logo": ""
     },
     {
-      "api": "vod/js/zhizhen.js",
+      "api": "https://cdn.jsdelivr.net/gh/g1005/uzn-live@main/vod/js/zhizhen.js",
       "name": "至臻 | 4K",
       "instance": "extApp",
       "webSite": "https://xiaomiai.site/",
@@ -8210,7 +8210,7 @@
       "logo": ""
     },
     {
-      "api": "vod/js/ouge.js",
+      "api": "https://cdn.jsdelivr.net/gh/g1005/uzn-live@main/vod/js/ouge.js",
       "name": "欧歌 | 4K",
       "instance": "extApp",
       "webSite": "https://woog.nxog.eu.org/",
@@ -8228,7 +8228,7 @@
       "logo": ""
     },
     {
-      "api": "vod/js/erxiao.js",
+      "api": "https://cdn.jsdelivr.net/gh/g1005/uzn-live@main/vod/js/erxiao.js",
       "name": "二小 | 4K",
       "instance": "extApp",
       "webSite": "https://xhww.net/",
@@ -8246,7 +8246,7 @@
       "logo": ""
     },
     {
-      "api": "vod/js/huban.js",
+      "api": "https://cdn.jsdelivr.net/gh/g1005/uzn-live@main/vod/js/huban.js",
       "name": "虎斑 | 4K",
       "instance": "extApp",
       "webSite": "http://103.45.162.207:20720",
@@ -8264,7 +8264,7 @@
       "logo": ""
     },
     {
-      "api": "vod/js/xiaoban.js",
+      "api": "https://cdn.jsdelivr.net/gh/g1005/uzn-live@main/vod/js/xiaoban.js",
       "name": "小斑 | 4K",
       "instance": "extApp",
       "webSite": "http://xsayang.fun:12512",
@@ -8282,7 +8282,7 @@
       "logo": ""
     },
     {
-      "api": "vod/js/pansearch.js",
+      "api": "https://cdn.jsdelivr.net/gh/g1005/uzn-live@main/vod/js/pansearch.js",
       "name": "PanSearch | 搜索",
       "instance": "extApp",
       "webSite": "https://www.pansearch.me",
@@ -8300,7 +8300,7 @@
       "logo": ""
     },
     {
-      "api": "vod/js/tgso.js",
+      "api": "https://cdn.jsdelivr.net/gh/g1005/uzn-live@main/vod/js/tgso.js",
       "name": "TG | 搜索",
       "instance": "extApp",
       "webSite": "123资源@zyfb123|2&夸克UC@ucquark|5&夸克电影@alyp_4K_Movies&夸克剧集@alyp_TV&夸克动漫@alyp_Animation&鱼哥资源@yggpan&CH资源@ChangAn2504",
@@ -8318,7 +8318,7 @@
       "logo": ""
     },
     {
-      "api": "vod/js/nanfdj.js",
+      "api": "https://cdn.jsdelivr.net/gh/g1005/uzn-live@main/vod/js/nanfdj.js",
       "name": "南风 | 短剧",
       "instance": "extApp",
       "webSite": "https://www.nanf.cc",
@@ -8336,7 +8336,7 @@
       "logo": ""
     },
     {
-      "api": "vod/js/Jian_douban2.txt",
+      "api": "https://cdn.jsdelivr.net/gh/g1005/uzn-live@main/vod/js/Jian_douban2.txt",
       "name": "🔥关注TG频道@stymei1",
       "instance": "extApp",
       "webSite": "https://movie.douban.com",
@@ -8570,7 +8570,7 @@
       "logo": ""
     },
     {
-      "api": "vod/js/Xiu_bhys.js",
+      "api": "https://cdn.jsdelivr.net/gh/g1005/uzn-live@main/vod/js/Xiu_bhys.js",
       "name": "👖八号影视",
       "instance": "extApp",
       "webSite": "https://www.bahaotv.com",
@@ -8588,7 +8588,7 @@
       "logo": ""
     },
     {
-      "api": "vod/js/Xiu_eacg.js",
+      "api": "https://cdn.jsdelivr.net/gh/g1005/uzn-live@main/vod/js/Xiu_eacg.js",
       "name": "👖E-ACG",
       "instance": "extApp",
       "webSite": "https://eacg1.com",
@@ -8606,7 +8606,7 @@
       "logo": ""
     },
     {
-      "api": "vod/js/Xiu_eacg2.js",
+      "api": "https://cdn.jsdelivr.net/gh/g1005/uzn-live@main/vod/js/Xiu_eacg2.js",
       "name": "👖E-ACG2",
       "instance": "extApp",
       "webSite": "https://eacg1.com",
@@ -8624,7 +8624,7 @@
       "logo": ""
     },
     {
-      "api": "vod/js/Xiu_MuteFun.js",
+      "api": "https://cdn.jsdelivr.net/gh/g1005/uzn-live@main/vod/js/Xiu_MuteFun.js",
       "name": "👖MuteFun",
       "instance": "extApp",
       "webSite": "https://www.mutean.com",
@@ -8642,7 +8642,7 @@
       "logo": ""
     },
     {
-      "api": "vod/js/Xiu_girigirilove.js",
+      "api": "https://cdn.jsdelivr.net/gh/g1005/uzn-live@main/vod/js/Xiu_girigirilove.js",
       "name": "👖girigirilove",
       "instance": "extApp",
       "webSite": "https://anime.girigirilove.com",
@@ -8660,7 +8660,7 @@
       "logo": ""
     },
     {
-      "api": "vod/js/Zhi_omofun.txt",
+      "api": "https://cdn.jsdelivr.net/gh/g1005/uzn-live@main/vod/js/Zhi_omofun.txt",
       "name": "👖omofun",
       "instance": "extApp",
       "webSite": "http://101.42.227.94:11024",
@@ -8678,7 +8678,7 @@
       "logo": ""
     },
     {
-      "api": "vod/js/Zhi_alist.txt",
+      "api": "https://cdn.jsdelivr.net/gh/g1005/uzn-live@main/vod/js/Zhi_alist.txt",
       "name": "👖Alist",
       "instance": "extApp",
       "webSite": "https://download.avemujica.org",
@@ -8696,7 +8696,7 @@
       "logo": ""
     },
     {
-      "api": "vod/js/Zhi_gdstudio.txt",
+      "api": "https://cdn.jsdelivr.net/gh/g1005/uzn-live@main/vod/js/Zhi_gdstudio.txt",
       "name": "GD音乐台",
       "instance": "extApp",
       "webSite": "https://music.gdstudio.xyz/",
@@ -8714,7 +8714,7 @@
       "logo": "https://mpimg.cn/view.php/f28da3eac8f392e9fa2ba91723b2bf4c.png"
     },
     {
-      "api": "vod/js/Xiu_libvio.js",
+      "api": "https://cdn.jsdelivr.net/gh/g1005/uzn-live@main/vod/js/Xiu_libvio.js",
       "name": "👖立播",
       "instance": "extApp",
       "webSite": "https://libvio.mov/",
@@ -8732,7 +8732,7 @@
       "logo": ""
     },
     {
-      "api": "vod/js/Zhi_kwts.txt",
+      "api": "https://cdn.jsdelivr.net/gh/g1005/uzn-live@main/vod/js/Zhi_kwts.txt",
       "name": "👖酷我听书",
       "instance": "extApp",
       "webSite": "http://tingshu.kuwo.cn",
@@ -9344,7 +9344,7 @@
       "logo": ""
     },
     {
-      "api": "vod/js/Zhi_bttwoo.js",
+      "api": "https://cdn.jsdelivr.net/gh/g1005/uzn-live@main/vod/js/Zhi_bttwoo.js",
       "name": "[直] 两个BT",
       "instance": "extApp",
       "webSite": "https://www.bttwoo.com",
@@ -9398,7 +9398,7 @@
       "logo": ""
     },
     {
-      "api": "vod/js/Pan_123ypzysq.txt",
+      "api": "https://cdn.jsdelivr.net/gh/g1005/uzn-live@main/vod/js/Pan_123ypzysq.txt",
       "name": "[盘] 123社区",
       "instance": "extApp",
       "webSite": "https://pan1.me",
@@ -9416,7 +9416,7 @@
       "logo": ""
     },
     {
-      "api": "vod/js/Pan_panta.txt",
+      "api": "https://cdn.jsdelivr.net/gh/g1005/uzn-live@main/vod/js/Pan_panta.txt",
       "name": "[盘] 盘Ta",
       "instance": "extApp",
       "webSite": "https://www.91panta.cn/",
@@ -9434,7 +9434,7 @@
       "logo": ""
     },
     {
-      "api": "vod/js/Pan_leijing.txt",
+      "api": "https://cdn.jsdelivr.net/gh/g1005/uzn-live@main/vod/js/Pan_leijing.txt",
       "name": "[盘] 雷鲸",
       "instance": "extApp",
       "webSite": "https://www.leijing.xyz/",
@@ -9452,7 +9452,7 @@
       "logo": ""
     },
     {
-      "api": "vod/js/Zhi_zxzj.txt",
+      "api": "https://cdn.jsdelivr.net/gh/g1005/uzn-live@main/vod/js/Zhi_zxzj.txt",
       "name": "[直] 在线",
       "instance": "extApp",
       "webSite": "https://www.zxzjhd.com",
@@ -9470,7 +9470,7 @@
       "logo": ""
     },
     {
-      "api": "vod/js/Zhi_3qys.txt",
+      "api": "https://cdn.jsdelivr.net/gh/g1005/uzn-live@main/vod/js/Zhi_3qys.txt",
       "name": "[直] 3Q影视",
       "instance": "extApp",
       "webSite": "https://qqqys.com",
@@ -9488,7 +9488,7 @@
       "logo": ""
     },
     {
-      "api": "vod/js/Zhi_rrsp.txt",
+      "api": "https://cdn.jsdelivr.net/gh/g1005/uzn-live@main/vod/js/Zhi_rrsp.txt",
       "name": "[直] RRSP",
       "instance": "extApp",
       "webSite": "RRSP",
@@ -9506,7 +9506,7 @@
       "logo": ""
     },
     {
-      "api": "vod/js/Pan_yinhai.txt",
+      "api": "https://cdn.jsdelivr.net/gh/g1005/uzn-live@main/vod/js/Pan_yinhai.txt",
       "name": "[盘] 音海",
       "instance": "extApp",
       "webSite": "https://sou.makifx.com",
@@ -9524,7 +9524,7 @@
       "logo": ""
     },
     {
-      "api": "vod/js/Jian_douban2.txt",
+      "api": "https://cdn.jsdelivr.net/gh/g1005/uzn-live@main/vod/js/Jian_douban2.txt",
       "name": "📌关注TG频道@stymei",
       "instance": "extApp",
       "webSite": "https://movie.douban.com",
@@ -9560,7 +9560,7 @@
       "logo": ""
     },
     {
-      "api": "vod/js/Zhi_qiyou.js",
+      "api": "https://cdn.jsdelivr.net/gh/g1005/uzn-live@main/vod/js/Zhi_qiyou.js",
       "name": "👖奇优",
       "instance": "extApp",
       "webSite": "http://www.qiyoudy4.com",
@@ -9578,7 +9578,7 @@
       "logo": ""
     },
     {
-      "api": "vod/js/Zhi_jianpian.txt",
+      "api": "https://cdn.jsdelivr.net/gh/g1005/uzn-live@main/vod/js/Zhi_jianpian.txt",
       "name": "👖荐片",
       "instance": "extApp",
       "webSite": "jianpian",
@@ -9596,7 +9596,7 @@
       "logo": ""
     },
     {
-      "api": "vod/js/Zhi_zxzj.txt",
+      "api": "https://cdn.jsdelivr.net/gh/g1005/uzn-live@main/vod/js/Zhi_zxzj.txt",
       "name": "👖1080在线",
       "instance": "extApp",
       "webSite": "https://www.zxzjhd.com",
@@ -9614,7 +9614,7 @@
       "logo": ""
     },
     {
-      "api": "vod/js/Zhi_symx.txt",
+      "api": "https://cdn.jsdelivr.net/gh/g1005/uzn-live@main/vod/js/Zhi_symx.txt",
       "name": "👖山有木兮",
       "instance": "extApp",
       "webSite": "https://film.symx.club",
@@ -9632,7 +9632,7 @@
       "logo": ""
     },
     {
-      "api": "vod/js/Zhi_3qys.txt",
+      "api": "https://cdn.jsdelivr.net/gh/g1005/uzn-live@main/vod/js/Zhi_3qys.txt",
       "name": "👖3Q影视",
       "instance": "extApp",
       "webSite": "https://qqqys.com",
@@ -9650,7 +9650,7 @@
       "logo": ""
     },
     {
-      "api": "vod/js/Zhi_iKanBot.txt",
+      "api": "https://cdn.jsdelivr.net/gh/g1005/uzn-live@main/vod/js/Zhi_iKanBot.txt",
       "name": "👖iKanBot",
       "instance": "extApp",
       "webSite": "https://v.aikanbot.com",
@@ -9668,7 +9668,7 @@
       "logo": ""
     },
     {
-      "api": "vod/js/Zhi_hmdj.txt",
+      "api": "https://cdn.jsdelivr.net/gh/g1005/uzn-live@main/vod/js/Zhi_hmdj.txt",
       "name": "👖河马短剧",
       "instance": "extApp",
       "webSite": "https://www.kuaikaw.cn",
@@ -9686,7 +9686,7 @@
       "logo": ""
     },
     {
-      "api": "vod/js/Xiu_aowu.txt",
+      "api": "https://cdn.jsdelivr.net/gh/g1005/uzn-live@main/vod/js/Xiu_aowu.txt",
       "name": "👖嗷呜动漫",
       "instance": "extApp",
       "webSite": "https://www.aowu.tv",
@@ -9704,7 +9704,7 @@
       "logo": ""
     },
     {
-      "api": "vod/js/Zhi_fqct.txt",
+      "api": "https://cdn.jsdelivr.net/gh/g1005/uzn-live@main/vod/js/Zhi_fqct.txt",
       "name": "👖番茄畅听",
       "instance": "extApp",
       "webSite": "fanqie",
@@ -9722,7 +9722,7 @@
       "logo": ""
     },
     {
-      "api": "vod/js/Zhi_symx.txt",
+      "api": "https://cdn.jsdelivr.net/gh/g1005/uzn-live@main/vod/js/Zhi_symx.txt",
       "name": "[直] 山有木兮",
       "instance": "extApp",
       "webSite": "https://film.symx.club",
@@ -9740,7 +9740,7 @@
       "logo": ""
     },
     {
-      "api": "vod/js/Zhi_hmdj.txt",
+      "api": "https://cdn.jsdelivr.net/gh/g1005/uzn-live@main/vod/js/Zhi_hmdj.txt",
       "name": "[直] 河马短剧",
       "instance": "extApp",
       "webSite": "https://www.kuaikaw.cn",
@@ -9758,7 +9758,7 @@
       "logo": ""
     },
     {
-      "api": "vod/js/Zhi_fqct.txt",
+      "api": "https://cdn.jsdelivr.net/gh/g1005/uzn-live@main/vod/js/Zhi_fqct.txt",
       "name": "[直] 番茄畅听",
       "instance": "extApp",
       "webSite": "fanqie",
@@ -9776,7 +9776,7 @@
       "logo": ""
     },
     {
-      "api": "vod/js/Zhi_iKanBot.txt",
+      "api": "https://cdn.jsdelivr.net/gh/g1005/uzn-live@main/vod/js/Zhi_iKanBot.txt",
       "name": "[直] iKanBot",
       "instance": "extApp",
       "webSite": "https://v.aikanbot.com",
@@ -9794,7 +9794,7 @@
       "logo": ""
     },
     {
-      "api": "vod/js/Xiu_aowu.txt",
+      "api": "https://cdn.jsdelivr.net/gh/g1005/uzn-live@main/vod/js/Xiu_aowu.txt",
       "name": "[嗅] 嗷呜动漫",
       "instance": "extApp",
       "webSite": "https://www.aowu.tv",
@@ -9848,7 +9848,7 @@
       "logo": ""
     },
     {
-      "api": "vod/js/Zhi_rrsp.txt",
+      "api": "https://cdn.jsdelivr.net/gh/g1005/uzn-live@main/vod/js/Zhi_rrsp.txt",
       "name": "👖人人视频",
       "instance": "extApp",
       "webSite": "RRSP",
@@ -9866,7 +9866,7 @@
       "logo": ""
     },
     {
-      "api": "vod/js/Zhi_bttwoo.js",
+      "api": "https://cdn.jsdelivr.net/gh/g1005/uzn-live@main/vod/js/Zhi_bttwoo.js",
       "name": "👖两个BT",
       "instance": "extApp",
       "webSite": "https://www.bttwoo.com",
@@ -9902,7 +9902,7 @@
       "logo": "https://mpimg.cn/view.php/f28da3eac8f392e9fa2ba91723b2bf4c.png"
     },
     {
-      "api": "vod/js/Pan_yishou.js",
+      "api": "https://cdn.jsdelivr.net/gh/g1005/uzn-live@main/vod/js/Pan_yishou.js",
       "name": "[盘] 奕搜",
       "instance": "extApp",
       "webSite": "https://ysso.cc",
@@ -9920,7 +9920,7 @@
       "logo": ""
     },
     {
-      "api": "vod/js/Pan_qingying.js",
+      "api": "https://cdn.jsdelivr.net/gh/g1005/uzn-live@main/vod/js/Pan_qingying.js",
       "name": "[盘] 清影",
       "instance": "extApp",
       "webSite": "http://www.revohd.com",
@@ -9938,7 +9938,7 @@
       "logo": ""
     },
     {
-      "api": "vod/js/Pan_4KTop.js",
+      "api": "https://cdn.jsdelivr.net/gh/g1005/uzn-live@main/vod/js/Pan_4KTop.js",
       "name": "[盘] 4KTop",
       "instance": "extApp",
       "webSite": "https://4ktop.com",
@@ -9956,7 +9956,7 @@
       "logo": ""
     },
     {
-      "api": "vod/js/Pan_319yingshe.js",
+      "api": "https://cdn.jsdelivr.net/gh/g1005/uzn-live@main/vod/js/Pan_319yingshe.js",
       "name": "[盘] 319影社",
       "instance": "extApp",
       "webSite": "https://www.319312.com",
@@ -9974,7 +9974,7 @@
       "logo": ""
     },
     {
-      "api": "vod/js/Pan_renren.js",
+      "api": "https://cdn.jsdelivr.net/gh/g1005/uzn-live@main/vod/js/Pan_renren.js",
       "name": "[盘] 人人电影网",
       "instance": "extApp",
       "webSite": "https://www.rrdynb.com",
@@ -9992,7 +9992,7 @@
       "logo": ""
     },
     {
-      "api": "vod/js/Zhi_wooyun.js",
+      "api": "https://cdn.jsdelivr.net/gh/g1005/uzn-live@main/vod/js/Zhi_wooyun.js",
       "name": "乌云影视",
       "instance": "extApp",
       "webSite": "https://wooyun.tv",
@@ -10010,7 +10010,7 @@
       "logo": ""
     },
     {
-      "api": "vod/js/Zhi_libvio.js",
+      "api": "https://cdn.jsdelivr.net/gh/g1005/uzn-live@main/vod/js/Zhi_libvio.js",
       "name": "[直] LibVio",
       "instance": "extApp",
       "webSite": "https://libvio.mov/",
@@ -10028,7 +10028,7 @@
       "logo": ""
     },
     {
-      "api": "vod/js/Pan_shandian.js",
+      "api": "https://cdn.jsdelivr.net/gh/g1005/uzn-live@main/vod/js/Pan_shandian.js",
       "name": "[盘] 闪电",
       "instance": "extApp",
       "webSite": "https://sd.sduc.site",
@@ -10046,7 +10046,7 @@
       "logo": ""
     },
     {
-      "api": "vod/js/Pan_panta.txt",
+      "api": "https://cdn.jsdelivr.net/gh/g1005/uzn-live@main/vod/js/Pan_panta.txt",
       "name": "[盘] 盘Ta",
       "instance": "extApp",
       "webSite": "https://www.91panta.cn/",
@@ -10064,7 +10064,7 @@
       "logo": ""
     },
     {
-      "api": "vod/js/Pan_leijing.txt",
+      "api": "https://cdn.jsdelivr.net/gh/g1005/uzn-live@main/vod/js/Pan_leijing.txt",
       "name": "[盘] 雷鲸",
       "instance": "extApp",
       "webSite": "https://www.leijing.xyz/",
@@ -10082,7 +10082,7 @@
       "logo": ""
     },
     {
-      "api": "vod/js/Pan_yinhai.txt",
+      "api": "https://cdn.jsdelivr.net/gh/g1005/uzn-live@main/vod/js/Pan_yinhai.txt",
       "name": "[盘] 音海",
       "instance": "extApp",
       "webSite": "https://sou.makifx.com",
@@ -10100,7 +10100,7 @@
       "logo": ""
     },
     {
-      "api": "vod/js/Pan_yishou.js",
+      "api": "https://cdn.jsdelivr.net/gh/g1005/uzn-live@main/vod/js/Pan_yishou.js",
       "name": "[盘] 奕搜",
       "instance": "extApp",
       "webSite": "https://ysso.cc",
@@ -10118,7 +10118,7 @@
       "logo": ""
     },
     {
-      "api": "vod/js/Pan_123ypzysq.txt",
+      "api": "https://cdn.jsdelivr.net/gh/g1005/uzn-live@main/vod/js/Pan_123ypzysq.txt",
       "name": "[盘] 123社区",
       "instance": "extApp",
       "webSite": "https://pan1.me",
@@ -10136,7 +10136,7 @@
       "logo": ""
     },
     {
-      "api": "vod/js/Pan_qingying.js",
+      "api": "https://cdn.jsdelivr.net/gh/g1005/uzn-live@main/vod/js/Pan_qingying.js",
       "name": "[盘] 清影",
       "instance": "extApp",
       "webSite": "http://www.revohd.com",
@@ -10154,7 +10154,7 @@
       "logo": ""
     },
     {
-      "api": "vod/js/Pan_4KTop.js",
+      "api": "https://cdn.jsdelivr.net/gh/g1005/uzn-live@main/vod/js/Pan_4KTop.js",
       "name": "[盘] 4KTop",
       "instance": "extApp",
       "webSite": "https://4ktop.com",
@@ -10172,7 +10172,7 @@
       "logo": ""
     },
     {
-      "api": "vod/js/Pan_319yingshe.js",
+      "api": "https://cdn.jsdelivr.net/gh/g1005/uzn-live@main/vod/js/Pan_319yingshe.js",
       "name": "[盘] 319影社",
       "instance": "extApp",
       "webSite": "https://www.319312.com",
@@ -10190,7 +10190,7 @@
       "logo": ""
     },
     {
-      "api": "vod/js/Pan_renren.js",
+      "api": "https://cdn.jsdelivr.net/gh/g1005/uzn-live@main/vod/js/Pan_renren.js",
       "name": "[盘] 人人电影网",
       "instance": "extApp",
       "webSite": "https://www.rrdynb.com",
@@ -10208,7 +10208,7 @@
       "logo": ""
     },
     {
-      "api": "vod/js/Zhi_wooyun.js",
+      "api": "https://cdn.jsdelivr.net/gh/g1005/uzn-live@main/vod/js/Zhi_wooyun.js",
       "name": "乌云影视",
       "instance": "extApp",
       "webSite": "https://wooyun.tv",
@@ -10226,7 +10226,7 @@
       "logo": ""
     },
     {
-      "api": "vod/js/Zhi_zxzj.txt",
+      "api": "https://cdn.jsdelivr.net/gh/g1005/uzn-live@main/vod/js/Zhi_zxzj.txt",
       "name": "[直] 在线",
       "instance": "extApp",
       "webSite": "https://www.zxzjhd.com",
@@ -10244,7 +10244,7 @@
       "logo": ""
     },
     {
-      "api": "vod/js/Zhi_qiyou.js",
+      "api": "https://cdn.jsdelivr.net/gh/g1005/uzn-live@main/vod/js/Zhi_qiyou.js",
       "name": "[直] 奇优",
       "instance": "extApp",
       "webSite": "http://www.qiyoudy4.com",
@@ -10262,7 +10262,7 @@
       "logo": ""
     },
     {
-      "api": "vod/js/Zhi_jianpian.txt",
+      "api": "https://cdn.jsdelivr.net/gh/g1005/uzn-live@main/vod/js/Zhi_jianpian.txt",
       "name": "[直] 荐片",
       "instance": "extApp",
       "webSite": "jianpian",
@@ -10280,7 +10280,7 @@
       "logo": ""
     },
     {
-      "api": "vod/js/Zhi_3qys.txt",
+      "api": "https://cdn.jsdelivr.net/gh/g1005/uzn-live@main/vod/js/Zhi_3qys.txt",
       "name": "[直] 3Q影视",
       "instance": "extApp",
       "webSite": "https://qqqys.com",
@@ -10298,7 +10298,7 @@
       "logo": ""
     },
     {
-      "api": "vod/js/Zhi_rrsp.txt",
+      "api": "https://cdn.jsdelivr.net/gh/g1005/uzn-live@main/vod/js/Zhi_rrsp.txt",
       "name": "[直] RRSP",
       "instance": "extApp",
       "webSite": "RRSP",
@@ -10316,7 +10316,7 @@
       "logo": ""
     },
     {
-      "api": "vod/js/Zhi_bttwoo.js",
+      "api": "https://cdn.jsdelivr.net/gh/g1005/uzn-live@main/vod/js/Zhi_bttwoo.js",
       "name": "[直] 两个BT",
       "instance": "extApp",
       "webSite": "https://www.bttwoo.com",
@@ -10334,7 +10334,7 @@
       "logo": ""
     },
     {
-      "api": "vod/js/Zhi_symx.txt",
+      "api": "https://cdn.jsdelivr.net/gh/g1005/uzn-live@main/vod/js/Zhi_symx.txt",
       "name": "[直] 山有木兮",
       "instance": "extApp",
       "webSite": "https://film.symx.club",
@@ -10352,7 +10352,7 @@
       "logo": ""
     },
     {
-      "api": "vod/js/Zhi_hmdj.txt",
+      "api": "https://cdn.jsdelivr.net/gh/g1005/uzn-live@main/vod/js/Zhi_hmdj.txt",
       "name": "[直] 河马短剧",
       "instance": "extApp",
       "webSite": "https://www.kuaikaw.cn",
@@ -10370,7 +10370,7 @@
       "logo": ""
     },
     {
-      "api": "vod/js/Zhi_fqct.txt",
+      "api": "https://cdn.jsdelivr.net/gh/g1005/uzn-live@main/vod/js/Zhi_fqct.txt",
       "name": "[直] 番茄畅听",
       "instance": "extApp",
       "webSite": "fanqie",
@@ -10388,7 +10388,7 @@
       "logo": ""
     },
     {
-      "api": "vod/js/Zhi_libvio.js",
+      "api": "https://cdn.jsdelivr.net/gh/g1005/uzn-live@main/vod/js/Zhi_libvio.js",
       "name": "[直] LibVio",
       "instance": "extApp",
       "webSite": "https://libvio.mov/",
@@ -10406,7 +10406,7 @@
       "logo": ""
     },
     {
-      "api": "vod/js/Xiu_aowu.txt",
+      "api": "https://cdn.jsdelivr.net/gh/g1005/uzn-live@main/vod/js/Xiu_aowu.txt",
       "name": "[嗅] 嗷呜动漫",
       "instance": "extApp",
       "webSite": "https://www.aowu.tv",
@@ -10442,7 +10442,7 @@
       "logo": "https://mpimg.cn/view.php/f28da3eac8f392e9fa2ba91723b2bf4c.png"
     },
     {
-      "api": "vod/js/Zhi_wooyun.js",
+      "api": "https://cdn.jsdelivr.net/gh/g1005/uzn-live@main/vod/js/Zhi_wooyun.js",
       "name": "乌云影视",
       "instance": "extApp",
       "webSite": "https://wooyun.tv",
@@ -10460,7 +10460,7 @@
       "logo": "https://mpimg.cn/view.php/f28da3eac8f392e9fa2ba91723b2bf4c.png"
     },
     {
-      "api": "vod/js/Pan_libvio.js",
+      "api": "https://cdn.jsdelivr.net/gh/g1005/uzn-live@main/vod/js/Pan_libvio.js",
       "name": "[盘] LibVio",
       "instance": "extApp",
       "webSite": "https://libvio.mov/",
@@ -10478,7 +10478,7 @@
       "logo": ""
     },
     {
-      "api": "vod/js/Zhi_emby.txt",
+      "api": "https://cdn.jsdelivr.net/gh/g1005/uzn-live@main/vod/js/Zhi_emby.txt",
       "name": "Emby",
       "instance": "extApp",
       "webSite": "emby服务器地址",
@@ -10496,7 +10496,7 @@
       "logo": "https://img.geekie.site/i/2026/01/12/153726.png"
     },
     {
-      "api": "vod/js/Zhi_gdstudio.txt",
+      "api": "https://cdn.jsdelivr.net/gh/g1005/uzn-live@main/vod/js/Zhi_gdstudio.txt",
       "name": "GD音乐台",
       "instance": "extApp",
       "webSite": "https://music.gdstudio.xyz/",
@@ -10514,7 +10514,7 @@
       "logo": "https://img.geekie.site/i/2026/02/23/220741.png"
     },
     {
-      "api": "vod/js/剧迷.txt",
+      "api": "https://cdn.jsdelivr.net/gh/g1005/uzn-live@main/vod/js/%E5%89%A7%E8%BF%B7.txt",
       "name": "剧迷",
       "instance": "extApp",
       "webSite": "https://gimy01.tv",
@@ -10532,7 +10532,7 @@
       "logo": "https://raw.githubusercontent.com/woleigedouer/uz/refs/heads/main/Test/image/剧迷.png"
     },
     {
-      "api": "vod/js/歪比巴卜.txt",
+      "api": "https://cdn.jsdelivr.net/gh/g1005/uzn-live@main/vod/js/%E6%AD%AA%E6%AF%94%E5%B7%B4%E5%8D%9C.txt",
       "name": "歪比",
       "instance": "extApp",
       "webSite": "https://wbbb1.com",
@@ -10550,7 +10550,7 @@
       "logo": "https://raw.githubusercontent.com/woleigedouer/uz/refs/heads/main/Test/image/歪比巴卜.png"
     },
     {
-      "api": "vod/js/金牌.txt",
+      "api": "https://cdn.jsdelivr.net/gh/g1005/uzn-live@main/vod/js/%E9%87%91%E7%89%8C.txt",
       "name": "金牌",
       "instance": "extApp",
       "webSite": "https://m.jiabaide.cn",
@@ -10568,7 +10568,7 @@
       "logo": "https://raw.githubusercontent.com/woleigedouer/uz/refs/heads/main/Test/image/金牌.png"
     },
     {
-      "api": "vod/js/稀饭.txt",
+      "api": "https://cdn.jsdelivr.net/gh/g1005/uzn-live@main/vod/js/%E7%A8%80%E9%A5%AD.txt",
       "name": "稀饭",
       "instance": "extApp",
       "webSite": "https://dm.xifanacg.com",
@@ -10586,7 +10586,7 @@
       "logo": "https://raw.githubusercontent.com/woleigedouer/uz/refs/heads/main/Test/image/稀饭.png"
     },
     {
-      "api": "vod/js/爱动漫.txt",
+      "api": "https://cdn.jsdelivr.net/gh/g1005/uzn-live@main/vod/js/%E7%88%B1%E5%8A%A8%E6%BC%AB.txt",
       "name": "爱动漫",
       "instance": "extApp",
       "webSite": "https://ani.girigirilove.com",
@@ -10604,7 +10604,7 @@
       "logo": "https://raw.githubusercontent.com/woleigedouer/uz/refs/heads/main/Test/image/爱动漫.png"
     },
     {
-      "api": "vod/js/PPnix.txt",
+      "api": "https://cdn.jsdelivr.net/gh/g1005/uzn-live@main/vod/js/PPnix.txt",
       "name": "PPnix",
       "instance": "extApp",
       "webSite": "https://www.ppnix.com",
@@ -10622,7 +10622,7 @@
       "logo": "https://raw.githubusercontent.com/woleigedouer/uz/refs/heads/main/Test/image/PPnix.png"
     },
     {
-      "api": "vod/js/韩小圈.txt",
+      "api": "https://cdn.jsdelivr.net/gh/g1005/uzn-live@main/vod/js/%E9%9F%A9%E5%B0%8F%E5%9C%88.txt",
       "name": "韩小圈",
       "instance": "extApp",
       "webSite": "https://hanxiaoquan.hanju.workers.dev",
@@ -10640,7 +10640,7 @@
       "logo": "https://raw.githubusercontent.com/woleigedouer/uz/refs/heads/main/Test/image/hanxiaoquan.png"
     },
     {
-      "api": "vod/js/Pan_shandian.js",
+      "api": "https://cdn.jsdelivr.net/gh/g1005/uzn-live@main/vod/js/Pan_shandian.js",
       "name": "[盘] 闪电",
       "instance": "extApp",
       "webSite": "https://sd.sduc.site",
@@ -10658,7 +10658,7 @@
       "logo": ""
     },
     {
-      "api": "vod/js/Pan_libvio.js",
+      "api": "https://cdn.jsdelivr.net/gh/g1005/uzn-live@main/vod/js/Pan_libvio.js",
       "name": "[盘] LibVio",
       "instance": "extApp",
       "webSite": "https://libvio.mov/",
@@ -10676,7 +10676,7 @@
       "logo": ""
     },
     {
-      "api": "vod/js/Zhi_guazi.txt",
+      "api": "https://cdn.jsdelivr.net/gh/g1005/uzn-live@main/vod/js/Zhi_guazi.txt",
       "name": "[直] 瓜子",
       "instance": "extApp",
       "webSite": "https://api.w32z7vtd.com",
@@ -10694,7 +10694,7 @@
       "logo": ""
     },
     {
-      "api": "vod/js/douban.txt",
+      "api": "https://cdn.jsdelivr.net/gh/g1005/uzn-live@main/vod/js/douban.txt",
       "name": "豆瓣",
       "instance": "extApp",
       "webSite": "https://movie.douban.com",
@@ -10712,7 +10712,7 @@
       "logo": "https://raw.githubusercontent.com/woleigedouer/uz/refs/heads/main/Test/image/douban.png"
     },
     {
-      "api": "vod/js/emby.txt",
+      "api": "https://cdn.jsdelivr.net/gh/g1005/uzn-live@main/vod/js/emby.txt",
       "name": "Emby",
       "instance": "extApp",
       "webSite": "emby服务器地址",
@@ -13610,7 +13610,7 @@
       "logo": ""
     },
     {
-      "api": "vod/js/豆瓣.txt",
+      "api": "https://cdn.jsdelivr.net/gh/g1005/uzn-live@main/vod/js/%E8%B1%86%E7%93%A3.txt",
       "name": "豆瓣",
       "instance": "extApp",
       "webSite": "https://movie.douban.com",
@@ -13628,7 +13628,7 @@
       "logo": "https://raw.githubusercontent.com/woleigedouer/uz/refs/heads/main/Test/image/豆瓣.png"
     },
     {
-      "api": "vod/js/聚合.txt",
+      "api": "https://cdn.jsdelivr.net/gh/g1005/uzn-live@main/vod/js/%E8%81%9A%E5%90%88.txt",
       "name": "聚合",
       "instance": "extApp",
       "webSite": "玩偶@https://wogg.xxooo.cf,https://www.wogg.net|木偶@https://666.666291.xyz,https://www.muou.asia,https://www.muou.site|蜡笔@http://xiaocge.fun,http://xiaocgege.shop|闪电@http://shandian.blog,http://sd.sduc.site|至臻@https://mihdr.top,http://www.miqk.cc,https://www.mihdr.top,https://zhizhen1.top|多多@https://tv.yydsys.top,https://yydsys.de5.net,https://tv.214521.xyz,https://tv.yydsys.cc|欧哥@https://woog.nxog.eu.org|二小@https://www.wexwp.cc,https://www.2xiaopan.top,https://www.erxiaozhan.top,https://www.2xiaozhan.top|虎斑@http://109.244.63.150:16969|小斑@http://103.45.162.207:12512",
@@ -13646,7 +13646,7 @@
       "logo": "https://raw.githubusercontent.com/woleigedouer/uz/refs/heads/main/Test/image/聚合.png"
     },
     {
-      "api": "vod/js/玩偶.txt",
+      "api": "https://cdn.jsdelivr.net/gh/g1005/uzn-live@main/vod/js/%E7%8E%A9%E5%81%B6.txt",
       "name": "玩偶",
       "instance": "extApp",
       "webSite": "http://wogg.xxooo.cf",
@@ -13664,7 +13664,7 @@
       "logo": "https://raw.githubusercontent.com/woleigedouer/uz/refs/heads/main/Test/image/玩偶.png"
     },
     {
-      "api": "vod/js/木偶.txt",
+      "api": "https://cdn.jsdelivr.net/gh/g1005/uzn-live@main/vod/js/%E6%9C%A8%E5%81%B6.txt",
       "name": "木偶",
       "instance": "extApp",
       "webSite": "https://666.666291.xyz",
@@ -13682,7 +13682,7 @@
       "logo": "https://raw.githubusercontent.com/woleigedouer/uz/refs/heads/main/Test/image/木偶.png"
     },
     {
-      "api": "vod/js/TG搜.js",
+      "api": "https://cdn.jsdelivr.net/gh/g1005/uzn-live@main/vod/js/TG%E6%90%9C.js",
       "name": "TG搜",
       "instance": "extApp",
       "webSite": "https://t.me",
@@ -13700,7 +13700,7 @@
       "logo": "https://raw.githubusercontent.com/woleigedouer/uz/refs/heads/main/Test/image/TG搜.png"
     },
     {
-      "api": "vod/js/双星.txt",
+      "api": "https://cdn.jsdelivr.net/gh/g1005/uzn-live@main/vod/js/%E5%8F%8C%E6%98%9F.txt",
       "name": "双星",
       "instance": "extApp",
       "webSite": "https://1.star2.cn",
@@ -13718,7 +13718,7 @@
       "logo": "https://raw.githubusercontent.com/woleigedouer/uz/refs/heads/main/Test/image/双星.png"
     },
     {
-      "api": "vod/js/综合.txt",
+      "api": "https://cdn.jsdelivr.net/gh/g1005/uzn-live@main/vod/js/%E7%BB%BC%E5%90%88.txt",
       "name": "综合",
       "instance": "extApp",
       "webSite": "https://www.juhebd.com",
@@ -13736,7 +13736,7 @@
       "logo": "https://raw.githubusercontent.com/woleigedouer/uz/refs/heads/main/Test/image/综合.png"
     },
     {
-      "api": "vod/js/咖啡.txt",
+      "api": "https://cdn.jsdelivr.net/gh/g1005/uzn-live@main/vod/js/%E5%92%96%E5%95%A1.txt",
       "name": "咖啡",
       "instance": "extApp",
       "webSite": "https://kafeizhibo.com",
@@ -13754,7 +13754,7 @@
       "logo": "https://raw.githubusercontent.com/woleigedouer/uz/refs/heads/main/Test/image/咖啡.png"
     },
     {
-      "api": "vod/js/瓜子.txt",
+      "api": "https://cdn.jsdelivr.net/gh/g1005/uzn-live@main/vod/js/%E7%93%9C%E5%AD%90.txt",
       "name": "瓜子",
       "instance": "extApp",
       "webSite": "https://apinew.uozvr.com",
@@ -13772,7 +13772,7 @@
       "logo": "https://raw.githubusercontent.com/woleigedouer/uz/refs/heads/main/Test/image/瓜子.png"
     },
     {
-      "api": "vod/js/橘汁.txt",
+      "api": "https://cdn.jsdelivr.net/gh/g1005/uzn-live@main/vod/js/%E6%A9%98%E6%B1%81.txt",
       "name": "橘汁",
       "instance": "extApp",
       "webSite": "https://123-1349250429.cos.ap-shanghai.myqcloud.com/app.txt",
@@ -13790,7 +13790,7 @@
       "logo": "https://raw.githubusercontent.com/woleigedouer/uz/refs/heads/main/Test/image/橘汁.png"
     },
     {
-      "api": "vod/js/山楂.txt",
+      "api": "https://cdn.jsdelivr.net/gh/g1005/uzn-live@main/vod/js/%E5%B1%B1%E6%A5%82.txt",
       "name": "山楂",
       "instance": "extApp",
       "webSite": "http://qkys.qukanwh.com",
@@ -13808,7 +13808,7 @@
       "logo": "https://raw.githubusercontent.com/woleigedouer/uz/refs/heads/main/Test/image/山楂.png"
     },
     {
-      "api": "vod/js/歪比.txt",
+      "api": "https://cdn.jsdelivr.net/gh/g1005/uzn-live@main/vod/js/%E6%AD%AA%E6%AF%94.txt",
       "name": "歪比",
       "instance": "extApp",
       "webSite": "https://wbbb1.com",
@@ -13826,7 +13826,7 @@
       "logo": "https://raw.githubusercontent.com/woleigedouer/uz/refs/heads/main/Test/image/歪比.png"
     },
     {
-      "api": "vod/js/星芽.txt",
+      "api": "https://cdn.jsdelivr.net/gh/g1005/uzn-live@main/vod/js/%E6%98%9F%E8%8A%BD.txt",
       "name": "星芽",
       "instance": "extApp",
       "webSite": "https://app.whjzjx.cn",
@@ -13844,7 +13844,7 @@
       "logo": "https://raw.githubusercontent.com/woleigedouer/uz/refs/heads/main/Test/image/星芽.png"
     },
     {
-      "api": "vod/js/番薯.txt",
+      "api": "https://cdn.jsdelivr.net/gh/g1005/uzn-live@main/vod/js/%E7%95%AA%E8%96%AF.txt",
       "name": "番薯",
       "instance": "extApp",
       "webSite": "https://yoapp.bytegooty.com",
@@ -13862,7 +13862,7 @@
       "logo": "https://raw.githubusercontent.com/woleigedouer/uz/refs/heads/main/Test/image/番薯.png"
     },
     {
-      "api": "vod/js/稀饭2.txt",
+      "api": "https://cdn.jsdelivr.net/gh/g1005/uzn-live@main/vod/js/%E7%A8%80%E9%A5%AD2.txt",
       "name": "稀饭²",
       "instance": "extApp",
       "webSite": "https://next.xifanacg.com",
@@ -13880,7 +13880,7 @@
       "logo": "https://raw.githubusercontent.com/woleigedouer/uz/refs/heads/main/Test/image/稀饭2.png"
     },
     {
-      "api": "vod/js/大师兄.txt",
+      "api": "https://cdn.jsdelivr.net/gh/g1005/uzn-live@main/vod/js/%E5%A4%A7%E5%B8%88%E5%85%84.txt",
       "name": "大师兄",
       "instance": "extApp",
       "webSite": "http://itv666.cc/aowu/config.webp",
@@ -13898,7 +13898,7 @@
       "logo": "https://raw.githubusercontent.com/woleigedouer/uz/refs/heads/main/Test/image/大师兄.png"
     },
     {
-      "api": "vod/js/Anime1.txt",
+      "api": "https://cdn.jsdelivr.net/gh/g1005/uzn-live@main/vod/js/Anime1.txt",
       "name": "Anime1",
       "instance": "extApp",
       "webSite": "https://anime1.me",
@@ -13916,7 +13916,7 @@
       "logo": "https://raw.githubusercontent.com/woleigedouer/uz/refs/heads/main/Test/image/Anime1.png"
     },
     {
-      "api": "vod/js/TGFileBot.txt",
+      "api": "https://cdn.jsdelivr.net/gh/g1005/uzn-live@main/vod/js/TGFileBot.txt",
       "name": "TGFileBot",
       "instance": "extApp",
       "webSite": "http://127.0.0.1:8080",
